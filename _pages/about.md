@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,43 +8,44 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+My name is Nico Lang and I have been a PhD student at [ETH Zurich](https://ethz.ch/en.html) since 2018. I am working in the [EcoVision Lab](https://prs.igp.ethz.ch/ecovision.html) that is part of the [Photogrammetry and Remote Sensing (PRS) group](https://prs.igp.ethz.ch/) under the supervision of [Prof. Konrad Schindler](https://igp.ethz.ch/personen/person-detail.html?persid=143986) and [Prof. Jan Dirk Wegner](https://igp.ethz.ch/personen/person-detail.html?persid=186562). 
 
-A data-driven personal website
+**Research**\
+My research interests are in the area of computer vision, machine learning, and remote sensing and in developing new methods using these techniques to support environmental sciences. My Phd research focuses on advancing the way we measure forest structure at global scales using publicly available satellite data. My interests also include uncertainty estimation in deep learning and learning from imbalanced data, as these are omnipresent challenges that arise when working on real-world problems. I see great potential in the application of machine learning to address global environmental issues. 
+
+**Studies**\
+During my Bachelor's degree in Geomatics and Planning at ETH Zurich, I discovered my fascination for machine learning and computer vision in the context of geospatial data science. Before continuing with my [Master in Geomatics at ETH Zurich](https://ethz.ch/en/studies/master/degree-programmes/architecture-and-civil-engineering/geomatics.html), I started an internship in computer vision at [upicto](https://www.venturelab.swiss/Logitech-buys-ETH-spinoff-Upicto), a start-up from the [Computer Vision Lab](https://vision.ee.ethz.ch/) at ETH, and continued it at Logitech, as upicto was acquired during my time there.
+
+**Collaborations**\
+Following the work started during an early academic visit to [Prof. Pietro Perona's](http://www.vision.caltech.edu/Perona.html)  [Computational Vision Lab](http://www.vision.caltech.edu/) at Caltech, I worked on deep learning approaches to monitor urban trees from street-level images. During my Phd I've had the chance to collaborate with the [NASA GEDI mission](https://gedi.umd.edu/), the [Swiss Federal Institute for Forest, Snow and Landscape Research WSL](http://www.wsl.ch), as well as with companies and institutions outside academia: [Barry Callebaut](https://www.barry-callebaut.com/), [High carbon stock Approach (HCSA)](http://highcarbonstock.org/), [Hunziker, Zarn und Partner (HZP)](https://www.hzp.ch/), and [MeteoSwiss](https://www.meteoswiss.admin.ch/home/research-and-cooperation/research-and-development.html).
+
+**Leisure**\
+I enjoy spending my free time outdoors hiking and snowboarding, playing volleyball, and traveling where [windy](https://www.windy.com/) takes me kitesurfing. I play the drums and like making music with others.
+
+News
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+-   October 2021: Our [paper](https://arxiv.org/abs/2103.03975) together with the [NASA GEDI mission](https://gedi.umd.edu/) is accepted to be published in the journal [Remote Sensing of Environment](https://www.journals.elsevier.com/remote-sensing-of-environment).
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+-   October 2021: Our research project [Automated Large-scale High Carbon Stock Estimation from Space](https://prs.igp.ethz.ch/research/current_projects/automated_large-scale_high_carbon_stock.html) was selected to be featured at the [AI+X Summit](https://ai.ethz.ch/news-and-events/events/ai-x-summit-2021.html) organized by the ETH AI Center. 
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+-   August 2021: I got invited to give a Radio interview at Swiss Radio SRF1 about our research in a program called "The measurement of forests". Die Aufzeichnung der Sendung "Treffpunkt" zum Thema: [Die Vermessung der Wälder](https://www.srf.ch/audio/treffpunkt/die-vermessung-der-waelder?id=12035145) (Swiss German).
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+-   July 2021: Our research got featured on the High Carbon Stock Approach (HCSA) website: [Publicly available indicative High Carbon Stock Forest maps for Malaysia, Indonesia, and the Philippines](http://highcarbonstock.org/publicly-available-indicative-high-carbon-stock-forest-maps-for-malaysia-indonesia-and-the-philippines/)
 
-**Markdown generator**
+-   June 2021: Mongabay covered our research in a news article: [Chocolate giant funds high resolution carbon map to protect forests](https://news.mongabay.com/2021/06/chocolate-giant-funds-high-resolution-carbon-map-to-protect-forests/)
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+-   May 2021: News article by Barry Callebaut: [Artificial intelligence against deforestation](https://www.barry-callebaut.com/en/group/media/news-stories/artificial-intelligence-against-deforestation)
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+-   January 2021: We were interviewed by RESET: "EcoVision Lab Is Mapping Biomass for the Good of the Planet" ([German](https://reset.org/blog/interview-ecovision-lab-will-die-weltweite-biomasse-kartieren-und-so-die-umwelt-besser-schuetze),[  English translation](https://en.reset.org/blog/interview-ecovision-lab-mapping-biomass-good-planet-01282021))
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+-   May 2020: News article by ETH Zürich Industry Relations:[  A global tool against deforestation](https://ethz.ch/en/industry-and-society/industry-relations/industry-news/2020/05/a-global-tool-against-deforestation.html)
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+-   August 2019: I wrote a Medium post summarizing my first journal paper as first author: [Deep learning reconstructs forests in 3D using only satellite images](https://medium.com/ecovisioneth/mapping-forest-structures-with-deep-learning-c1d3c1b41e4e?source=friends_link&sk=66fefa1a9d624c108a421c8d5f989592) and initiated the [Medium publication of the EcoVision Lab](https://medium.com/ecovisioneth).
+
+-   March 2019: [The U.V. Helava Award](https://www.isprs.org/society/awards/helava/2018.aspx) for best paper 2018 in ISPRS Journal of Photogrammetry and Remote Sensing (with Jan D. Wegner, Konrad Schindler, and Steve Branson, David Hall, Pietro Perona from the [Caltech Computational Vision Group](http://www.vision.caltech.edu/index.html))
+
+-   October 2018: I am an associate PhD fellow of the [Max Planck ETH Center for Learning Systems (CLS)](https://learning-systems.org/phds)
+
+-   August 2016: I am visiting [Prof. Pietro Perona's](http://www.vision.caltech.edu/Perona.html)  [Computational Vision Lab](http://www.vision.caltech.edu/) at Caltech for my interdisciplinary project. I am supported by a travel grant from the [Erich-Degen Stiftung (ETH Zürich)](https://ethz.ch/content/dam/ethz/associates/services/lehre/admin-stipendien/files/Infoblatt_Degen_Einzelreisen.pdf).
+
