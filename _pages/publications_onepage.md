@@ -17,7 +17,7 @@ arxiv (2021)\
 **Global canopy height regression and uncertainty estimation from GEDI LIDAR waveforms with deep ensembles**\
 Nico Lang, Nikolai Kalischek, John Armston, Konrad Schindler, Ralph Dubayah, Jan Dirk Wegner\
 Remote Sensing of Environment (2021)\
-[pdf](https://arxiv.org/pdf/2103.03975.pdf) | 
+[pdf](https://doi.org/10.1016/j.rse.2021.112760) | 
 [code](https://github.com/langnico/GEDI-BDL) | 
 [demo dataset](https://share.phys.ethz.ch/~pf/nlangdata/GEDI_BDL_demo.zip) | 
 [download map]( https://doi.org/10.5281/zenodo.5112904)

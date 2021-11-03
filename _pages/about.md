@@ -25,7 +25,7 @@ I enjoy spending my free time outdoors hiking and snowboarding, playing volleyba
 News
 ======
 
--   October 2021: Our [paper](https://arxiv.org/abs/2103.03975) together with the [NASA GEDI mission](https://gedi.umd.edu/) is accepted to be published in the journal [Remote Sensing of Environment](https://www.journals.elsevier.com/remote-sensing-of-environment).
+-   October 2021: Our [paper](https://doi.org/10.1016/j.rse.2021.112760) together with the [NASA GEDI mission](https://gedi.umd.edu/) is published in the journal [Remote Sensing of Environment](https://www.journals.elsevier.com/remote-sensing-of-environment).
 
 -   October 2021: Our research project [Automated Large-scale High Carbon Stock Estimation from Space](https://prs.igp.ethz.ch/research/current_projects/automated_large-scale_high_carbon_stock.html) was selected to be featured at the [AI+X Summit](https://ai.ethz.ch/news-and-events/events/ai-x-summit-2021.html) organized by the ETH AI Center. 
 
