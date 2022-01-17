@@ -5,6 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
+-   January 2022: Invited talk at Google's [Geo for Good Lightning Talks Series #6: Forest & Nature](https://earthoutreachonair.withgoogle.com/events/lightningtalk6).
 
 -   October 2021: Invited talk at the [HCSA](https://highcarbonstock.org/) Largescale Working Group Meeting to present our [latest work](https://nlang.users.earthengine.app/view/canopy-height-and-carbon-stock-southeast-asia-2020) on large-scale indicative high carbon stock mapping.
 
