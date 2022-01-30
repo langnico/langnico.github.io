@@ -25,6 +25,8 @@ I enjoy spending my free time outdoors hiking and snowboarding, playing volleyba
 News
 ======
 
+-   February 2022: I got invited to give a seminar talk to the [Alan Turing Institute Environment and Sustainability Special Interest Group](https://www.turing.ac.uk/research/interest-groups/environment-and-sustainability).
+
 -   January 2022: I got invited to give a talk at Google's [Geo for Good Lightning Talks Series #6: Forest & Nature](https://earthoutreachonair.withgoogle.com/events/lightningtalk6).
 
 -   October 2021: Our [paper](https://doi.org/10.1016/j.rse.2021.112760) together with the [NASA GEDI mission](https://gedi.umd.edu/) is published in the journal [Remote Sensing of Environment](https://www.journals.elsevier.com/remote-sensing-of-environment).
