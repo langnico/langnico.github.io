@@ -7,6 +7,14 @@ author_profile: true
 
 More details on [Google Scholar](https://scholar.google.ch/citations?user=bVZtKsQAAAAJ&hl=en).
 
+**A high-resolution canopy height model of the Earth**\
+Nico Lang, Walter Jetz, Konrad Schindler, Jan Dirk Wegner\
+arxiv (2022)\
+[pdf](https://arxiv.org/pdf/2204.08322.pdf) | 
+[project website](https://langnico.github.io/globalcanopyheight/) |
+[explore maps](https://nlang.users.earthengine.app/view/global-canopy-height-2020) 
+
+
 **High carbon stock mapping at large scale with optical satellite imagery and spaceborne LIDAR**\
 Nico Lang, Konrad Schindler, Jan Dirk Wegner\
 arxiv (2021)\

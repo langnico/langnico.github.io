@@ -25,6 +25,10 @@ I enjoy spending my free time outdoors hiking and snowboarding, playing volleyba
 News
 ======
 
+-   April 2022: ETH News reported about our research: [Neural network can read tree heights from satellite images](https://ethz.ch/en/news-and-events/eth-news/news/2022/04/neural-network-can-read-tree-heights-from-satellite-images.html).
+
+-   April 2022: New preprint available: [A high-resolution canopy height model of the Earth](https://doi.org/10.48550/arXiv.2204.08322); and a new [project website](https://langnico.github.io/globalcanopyheight/) to access the demo and data.
+
 -   February 2022: I got invited to give a seminar talk to the [Alan Turing Institute Environment and Sustainability Special Interest Group](https://www.turing.ac.uk/research/interest-groups/environment-and-sustainability).
 
 -   January 2022: I got invited to give a talk at Google's [Geo for Good Lightning Talks Series #6: Forest & Nature](https://earthoutreachonair.withgoogle.com/events/lightningtalk6).
