@@ -25,6 +25,10 @@ I enjoy spending my free time outdoors hiking and snowboarding, playing volleyba
 News
 ======
 
+-   May 2022: I defended my PhD! Big thanks to all the great people supporting me on this journey. I posted a picture of my amazing hat on twitter [here](https://twitter.com/nicolangnl/status/1528660823362633730?s=20&t=Zl7DUQ2JvHnjVP3SFaRO-w).
+
+-   May 2022: Got invited to speak at the at [ML for Remote Sensing virtual discussion group](https://groups.google.com/g/ml4rs) organized by [Hannah Kerner](https://hannah-rae.github.io/) and [Patrick Clifton Gray](http://patrickgray.me/). See their schedule [here](https://docs.google.com/document/d/e/2PACX-1vQ5j59KWQCI7zvH-scVx6dh58ceC-ZiHJKRFl2Y64vC7rFWeJybivZBde3EpAxwGSUmmKY2THUjXGES/pub).
+
 -   May 2022: Our research has been covered by several news articles from NVIDIA, NASA, NBC. See the list of links under "[Media](https://langnico.github.io/media/)".
 
 -   April 2022: ETH News reported about our research: [Neural network can read tree heights from satellite images](https://ethz.ch/en/news-and-events/eth-news/news/2022/04/neural-network-can-read-tree-heights-from-satellite-images.html).

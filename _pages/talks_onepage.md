@@ -5,6 +5,10 @@ permalink: /talks/
 author_profile: true
 ---
 
+-   May 2022: Oral presentation at ESA's Living Planet Symposium in Bonn about our work on global high-resolution canopy height mapping fusing Sentinel-2 and GEDI. See the [project page](https://langnico.github.io/globalcanopyheight/).
+
+-   May 2022: Invited talk at [ML for Remote Sensing virtual discussion group](https://groups.google.com/g/ml4rs) organized by [Hannah Kerner](https://hannah-rae.github.io/) and [Patrick Clifton Gray](http://patrickgray.me/). See their schedule [here](https://docs.google.com/document/d/e/2PACX-1vQ5j59KWQCI7zvH-scVx6dh58ceC-ZiHJKRFl2Y64vC7rFWeJybivZBde3EpAxwGSUmmKY2THUjXGES/pub).
+
 -   February 2022: Invited seminar talk to the [Alan Turing Institute Environment and Sustainability Special Interest Group](https://www.turing.ac.uk/research/interest-groups/environment-and-sustainability).
 
 -   January 2022: Invited talk at Google's [Geo for Good Lightning Talks Series #6: Forest & Nature](https://earthoutreachonair.withgoogle.com/events/lightningtalk6).
