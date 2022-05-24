@@ -25,6 +25,8 @@ I enjoy spending my free time outdoors hiking and snowboarding, playing volleyba
 News
 ======
 
+-   May 2022: Our research has been covered by several news articles from NVIDIA, NASA, NBC. See the list of links under "[Media](https://langnico.github.io/media/)".
+
 -   April 2022: ETH News reported about our research: [Neural network can read tree heights from satellite images](https://ethz.ch/en/news-and-events/eth-news/news/2022/04/neural-network-can-read-tree-heights-from-satellite-images.html).
 
 -   April 2022: New preprint available: [A high-resolution canopy height model of the Earth](https://doi.org/10.48550/arXiv.2204.08322); and a new [project website](https://langnico.github.io/globalcanopyheight/) to access the demo and data.
