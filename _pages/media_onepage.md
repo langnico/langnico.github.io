@@ -5,6 +5,8 @@ permalink: /media/
 author_profile: true
 ---
 
+Swiss national TV "SRF" reports on our research in the news program "10 vor 10": [«Living Planet Symposium» mit Schweizer Beteiligung](https://www.srf.ch/play/tv/10-vor-10/video/living-planet-symposium-mit-schweizer-beteiligung?urn=urn:srf:video:f195eabf-8b7b-4689-b8f2-3d64165dedd3).
+
 News article by NASA: "[Scientists Show How Forests Measure Up](https://earthobservatory.nasa.gov/images/149793/scientists-show-how-forests-measure-up)" (2022)
 
 Online story by NBC: "[Battle in Space to Save the Earth](https://www.nbcbayarea.com/investigations/battle-in-space-to-save-the-earth/2889267/)" (2022)

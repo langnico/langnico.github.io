@@ -25,6 +25,8 @@ I enjoy spending my free time outdoors hiking and snowboarding, playing volleyba
 News
 ======
 
+-   May 2022: Swiss national TV "SRF" reports on our research in the news program "10 vor 10": [«Living Planet Symposium» mit Schweizer Beteiligung](https://www.srf.ch/play/tv/10-vor-10/video/living-planet-symposium-mit-schweizer-beteiligung?urn=urn:srf:video:f195eabf-8b7b-4689-b8f2-3d64165dedd3).
+
 -   May 2022: I defended my PhD! Big thanks to all the great people supporting me on this journey. I posted a picture of my amazing hat on twitter [here](https://twitter.com/nicolangnl/status/1528660823362633730?s=20&t=Zl7DUQ2JvHnjVP3SFaRO-w).
 
 -   May 2022: Got invited to speak at the at [ML for Remote Sensing virtual discussion group](https://groups.google.com/g/ml4rs) organized by [Hannah Kerner](https://hannah-rae.github.io/) and [Patrick Clifton Gray](http://patrickgray.me/). See their schedule [here](https://docs.google.com/document/d/e/2PACX-1vQ5j59KWQCI7zvH-scVx6dh58ceC-ZiHJKRFl2Y64vC7rFWeJybivZBde3EpAxwGSUmmKY2THUjXGES/pub).
