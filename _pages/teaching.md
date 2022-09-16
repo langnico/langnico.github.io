@@ -57,5 +57,6 @@ Recommended resources
 
 -   [Playground](http://playground.tensorflow.org/) is a great online tool to get an intuitive feeling for neural network hyperparameters.
 
--   The amazing [course notes](https://cs231n.github.io/) from [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/) are great to learn about CNNs .
+-   The amazing [course notes](https://cs231n.github.io/) from [CS231n: Deep Learning for Computer Vision](http://cs231n.stanford.edu/) are great to learn about CNNs .
 
+-   [ML for Remote Sensing Discussion Group](https://docs.google.com/document/d/e/2PACX-1vQ5j59KWQCI7zvH-scVx6dh58ceC-ZiHJKRFl2Y64vC7rFWeJybivZBde3EpAxwGSUmmKY2THUjXGES/pub) organized by Hannah Kerner and Patrick Gray.
