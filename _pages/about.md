@@ -8,10 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-My name is Nico Lang and I have been a PhD student at [ETH Zurich](https://ethz.ch/en.html) since 2018. I am working in the [EcoVision Lab](https://prs.igp.ethz.ch/ecovision.html) that is part of the [Photogrammetry and Remote Sensing (PRS) group](https://prs.igp.ethz.ch/) under the supervision of [Prof. Konrad Schindler](https://igp.ethz.ch/personen/person-detail.html?persid=143986) and [Prof. Jan Dirk Wegner](https://igp.ethz.ch/personen/person-detail.html?persid=186562). 
+My name is Nico Lang and I am a Postdoc at the [University of Copenhagen](https://www.ku.dk/english/) associated with the [Pioneer centre for AI](https://www.aicentre.dk/), where I am co-advised by [Serge Belongie](https://sergebelongie.github.io/) and [Christian Igel](https://christian-igel.github.io/).
+I received my PhD from[  ETH Zurich](https://ethz.ch/en.html), where I was working in the[  EcoVision Lab](https://prs.igp.ethz.ch/ecovision.html) that is part of the[  Photogrammetry and Remote Sensing (PRS) group](https://prs.igp.ethz.ch/) under the supervision of[  Prof. Konrad Schindler](https://igp.ethz.ch/personen/person-detail.html?persid=143986) and[  Prof. Jan Dirk Wegner](https://igp.ethz.ch/personen/person-detail.html?persid=186562).
 
 **Research**\
-My research interests are in the area of computer vision, machine learning, and remote sensing and in developing new methods using these techniques to support environmental sciences. My Phd research focuses on advancing the way we measure forest structure at global scales using publicly available satellite data. My interests also include uncertainty estimation in deep learning and learning from imbalanced data, as these are omnipresent challenges that arise when working on real-world problems. I see great potential in the application of machine learning to address global environmental issues. 
+My research interests are in the area of computer vision, machine learning, and remote sensing and in developing new methods using these techniques to support environmental sciences. My [PhD research](https://www.research-collection.ethz.ch/handle/20.500.11850/554994) focused on advancing the way we measure forest structure at global scales using publicly available satellite data. My interests also include uncertainty estimation in deep learning, anomaly detection, and learning from imbalanced data, as these are omnipresent challenges that arise when working on real-world problems. I see great potential in the application of machine learning to address global environmental issues. 
 
 **Studies**\
 During my Bachelor's degree in Geomatics and Planning at ETH Zurich, I discovered my fascination for machine learning and computer vision in the context of geospatial data science. Before continuing with my [Master in Geomatics at ETH Zurich](https://ethz.ch/en/studies/master/degree-programmes/architecture-and-civil-engineering/geomatics.html), I started an internship in computer vision at [upicto](https://www.venturelab.swiss/Logitech-buys-ETH-spinoff-Upicto), a start-up from the [Computer Vision Lab](https://vision.ee.ethz.ch/) at ETH, and continued it at Logitech, as upicto was acquired during my time there.
@@ -24,6 +25,10 @@ I enjoy spending my free time outdoors hiking and snowboarding, playing volleyba
 
 News
 ======
+
+-   September 2022: I moved to Copenhagen and started as a Postdoc at the [University of Copenhagen](https://www.ku.dk/english/), where I am associated with the new [Pioneer centre for AI](https://www.aicentre.dk/). I am co-advised by [Serge Belongie](https://sergebelongie.github.io/) and [Christian Igel](https://christian-igel.github.io/).
+
+-   June 2022: My doctoral thesis is now online: [Mapping Vegetation Height — Probabilistic Deep Learning for Global Remote Sensing](https://www.research-collection.ethz.ch/handle/20.500.11850/554994?show=full). Here are the [slides](https://drive.google.com/file/d/1uO7eewNu-1ANCCh6XAY9bAYOe4ny7v0K/view?usp=sharing) from my defense.
 
 -   May 2022: Swiss national TV "SRF" reports on our research in the news program "10 vor 10": [«Living Planet Symposium» mit Schweizer Beteiligung](https://www.srf.ch/play/tv/10-vor-10/video/living-planet-symposium-mit-schweizer-beteiligung?urn=urn:srf:video:f195eabf-8b7b-4689-b8f2-3d64165dedd3).
 
