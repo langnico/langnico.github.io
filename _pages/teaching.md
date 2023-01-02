@@ -60,3 +60,5 @@ Recommended resources
 -   The amazing [course notes](https://cs231n.github.io/) from [CS231n: Deep Learning for Computer Vision](http://cs231n.stanford.edu/) are great to learn about CNNs .
 
 -   [ML for Remote Sensing Discussion Group](https://docs.google.com/document/d/e/2PACX-1vQ5j59KWQCI7zvH-scVx6dh58ceC-ZiHJKRFl2Y64vC7rFWeJybivZBde3EpAxwGSUmmKY2THUjXGES/pub) organized by Hannah Kerner and Patrick Gray.
+
+-   Medium post on ["How we write rebuttals"](https://deviparikh.medium.com/how-we-write-rebuttals-dc84742fece1) by Devi Parikh, Dhruv Batra, Stefan Lee

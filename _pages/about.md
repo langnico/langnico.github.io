@@ -25,6 +25,10 @@ I enjoy spending my free time outdoors hiking and snowboarding, playing volleyba
 
 News
 ======
+-   December 2022: I am excited to co-organize the ["FGVC10: The 10th Fine-Grained Visual Categorization"](https://sites.google.com/view/fgvc10) workshop which was accepted to CVPR 2023 in Vancouver. 
+    [**CALL FOR PAPERS**](https://sites.google.com/view/fgvc10/submission): Interested in fine-grained learning and its applications? Consider submitting your paper to FGVC10. *Deadline: March 20, 2023.*
+
+-   December 2022: German national TV "ARD" presents our research on global canopy height mapping in the quiz show "Wer Weiss Denn Sowas". Watch the episode [here](https://www.daserste.de/unterhaltung/quiz-show/wer-weiss-denn-sowas/sendung/wer-weiss-denn-sowas-folge-931-100.html) (at 7:45 min). 
 
 -   September 2022: I moved to Copenhagen and started as a Postdoc at the [University of Copenhagen](https://www.ku.dk/english/), where I am associated with the new [Pioneer centre for AI](https://www.aicentre.dk/). I am co-advised by [Serge Belongie](https://sergebelongie.github.io/) and [Christian Igel](https://christian-igel.github.io/).
 

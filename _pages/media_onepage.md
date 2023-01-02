@@ -5,7 +5,9 @@ permalink: /media/
 author_profile: true
 ---
 
-Swiss national TV "SRF" reports on our research in the news program "10 vor 10": [«Living Planet Symposium» mit Schweizer Beteiligung](https://www.srf.ch/play/tv/10-vor-10/video/living-planet-symposium-mit-schweizer-beteiligung?urn=urn:srf:video:f195eabf-8b7b-4689-b8f2-3d64165dedd3).
+German national TV "ARD" presents our research on global canopy height mapping in the quiz show ["Wer Weiss Denn Sowas"](https://www.daserste.de/unterhaltung/quiz-show/wer-weiss-denn-sowas/sendung/wer-weiss-denn-sowas-folge-931-100.html). (2022)
+
+Swiss national TV "SRF" reports on our research in the news program "10 vor 10": [«Living Planet Symposium» mit Schweizer Beteiligung](https://www.srf.ch/play/tv/10-vor-10/video/living-planet-symposium-mit-schweizer-beteiligung?urn=urn:srf:video:f195eabf-8b7b-4689-b8f2-3d64165dedd3). (2022)
 
 News article by NASA: "[Scientists Show How Forests Measure Up](https://earthobservatory.nasa.gov/images/149793/scientists-show-how-forests-measure-up)" (2022)
 
