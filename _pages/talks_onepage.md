@@ -4,6 +4,7 @@ title: "Talks and other activities"
 permalink: /talks/
 author_profile: true
 ---
+-   May 2023: Invited talk at [AI for Good](https://aiforgood.itu.int/event/remote-sensing-enables-monitoring-life-above-and-under-water-global-vegetation-monitoring-with-probabilistic-deep-learning/): "Global vegetation monitoring with probabilistic deep learning"
 
 -   May 2022: Oral presentation at ESA's Living Planet Symposium in Bonn about our work on global high-resolution canopy height mapping fusing Sentinel-2 and GEDI. See the [project page](https://langnico.github.io/globalcanopyheight/).
 
