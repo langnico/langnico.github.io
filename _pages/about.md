@@ -25,7 +25,7 @@ I enjoy spending my free time outdoors hiking and snowboarding, playing volleyba
 
 News
 ======
--   May 2023: Invited talk at [AI for Good](https://aiforgood.itu.int/event/remote-sensing-enables-monitoring-life-above-and-under-water-global-vegetation-monitoring-with-probabilistic-deep-learning/): "Global vegetation monitoring with probabilistic deep learning"
+-   May 2023: Invited talk at [AI for Good](https://aiforgood.itu.int/event/remote-sensing-enables-monitoring-life-above-and-under-water-global-vegetation-monitoring-with-probabilistic-deep-learning/): "Global vegetation monitoring with probabilistic deep learning". [[video](https://www.youtube.com/live/6krEymY4mEk?feature=share&t=3420)] [[slides](https://aiforgood.itu.int/wp-content/uploads/2021/06/AI-for-Good-Nico-Lang-Global-vegetation-monitoring-with-probabilistic-deep-learning_compressed.pdf)]
 
 -   December 2022: I am excited to co-organize the ["FGVC10: The 10th Fine-Grained Visual Categorization"](https://sites.google.com/view/fgvc10) workshop which was accepted to CVPR 2023 in Vancouver. 
     [**CALL FOR PAPERS**](https://sites.google.com/view/fgvc10/submission): Interested in fine-grained learning and its applications? Consider submitting your paper to FGVC10. *Deadline: March 20, 2023.*

@@ -7,6 +7,14 @@ author_profile: true
 
 More details on [Google Scholar](https://scholar.google.ch/citations?user=bVZtKsQAAAAJ&hl=en).
 
+**Doctoral Thesis: Mapping Vegetation Height — Probabilistic Deep Learning for Global Remote Sensing**\
+Nico Lang\
+Committee: Prof. Dr. Konrad Schindler (ETH Zurich), 
+Prof. Dr. Jan Dirk Wegner (University of Zurich), 
+Prof. Dr. Walter Jetz (Yale University),
+Dr. Habil. Bertrand Le Saux (European Space Agency)\
+[pdf](https://doi.org/10.3929/ethz-b-000554994)
+
 **A high-resolution canopy height model of the Earth**\
 Nico Lang, Walter Jetz, Konrad Schindler, Jan Dirk Wegner\
 arxiv (2022)\
