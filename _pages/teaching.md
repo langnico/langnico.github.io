@@ -23,6 +23,7 @@ Teaching Volleyball elective courses (J+S school sport) at several high schools 
 
 Tutorials and workshops
 ======
+-   June 2023: I co-organized the [10th Workshop on Fine-grained Visual Categorization (FGVC10)](https://sites.google.com/view/fgvc10) at CVPR 2023 in Vancouver.
 
 -   September 2019: I co-organized together with Jan Dirk Wegner the tutorial on ["Deep Learning for Geospatial Data Analysis" at the ECML/PKDD Summer School (EPSS19)](https://ecmlpkdd2019.org/summerschool/programme/) in Würzburg, Germany.
 
@@ -38,18 +39,23 @@ Tutorials and workshops
 
 Student theses 
 ======
+-   2023: Bachelor's Thesis, Philip Enevoldsen & Christian Gundersen, Impairing and Improving Open-Set Recognition with Adversarial Attacks, Supervisors: Nico Lang, Christian Igel
 
--   2020: Master's Thesis Agnieszka Rozniak[  Data-​driven visibility estimation for weather webcams](https://ethz.ch/content/dam/ethz/special-interest/baug/igp/photogrammetry-remote-sensing-dam/documents/pdf/Student_Theses/MA_Rozniak.pdf), Supervision: Nico Lang, Dr. Jan D. Wegner, Dr. Christian Sigg (MeteoSwiss), Prof. Konrad Schindler
+-   2022: Master's Thesis, Clémence Lanfranchi, [Global Biomass Mapping and Uncertainty
+Estimation from GEDI LIDAR Data using
+Bayesian Deep Learning](https://ethz.ch/content/dam/ethz/special-interest/baug/igp/photogrammetry-remote-sensing-dam/documents/pdf/Student_Theses/MA_ClemenceLanfranchi.pdf), Advisors: Nikolai Kalischek & Nico Lang, Supervisor: Prof. Dr. Konrad Schindler  
 
--   2020: Semester Project Olivier Dietrich[  High Carbon Stock Estimation with Sentinel-​2 and Deep Learning Methods](https://ethz.ch/content/dam/ethz/special-interest/baug/igp/photogrammetry-remote-sensing-dam/documents/pdf/Student_Theses/SemesterProject_Dietrich.pdf), Supervision: Nikolai Kalischek, Nico Lang, Dr. Jan D. Wegner
+-   2020: Master's Thesis, Agnieszka Rozniak, [Data-​driven visibility estimation for weather webcams](https://ethz.ch/content/dam/ethz/special-interest/baug/igp/photogrammetry-remote-sensing-dam/documents/pdf/Student_Theses/MA_Rozniak.pdf), Supervision: Nico Lang, Dr. Jan D. Wegner, Dr. Christian Sigg (MeteoSwiss), Prof. Konrad Schindler
 
--   2019: Interdisciplinary Project Agnieszka Rozniak[  Drone Images and Deep Learning for River Monitoring in Switzerland](https://ethz.ch/content/dam/ethz/special-interest/baug/igp/photogrammetry-remote-sensing-dam/documents/pdf/Student_Theses/IPA_Rozniak.pdf), Supervision: Dr. Jan D. Wegner, Nico Lang, Prof. Konrad Schindler
+-   2020: Semester Project, Olivier Dietrich, [High Carbon Stock Estimation with Sentinel-​2 and Deep Learning Methods](https://ethz.ch/content/dam/ethz/special-interest/baug/igp/photogrammetry-remote-sensing-dam/documents/pdf/Student_Theses/SemesterProject_Dietrich.pdf), Supervision: Nikolai Kalischek, Nico Lang, Dr. Jan D. Wegner
 
--   2018: Master's Thesis Ursula Kälin[  Tree stress estimation with deep learning](https://ethz.ch/content/dam/ethz/special-interest/baug/igp/photogrammetry-remote-sensing-dam/documents/pdf/Student_Theses/MasterThesis_Kaelin.pdf), Supervision: Dr. Jan D. Wegner, Nico Lang, Prof. Arthur Gessler, Prof. Konrad Schindler
+-   2019: Interdisciplinary Project, Agnieszka Rozniak, [Drone Images and Deep Learning for River Monitoring in Switzerland](https://ethz.ch/content/dam/ethz/special-interest/baug/igp/photogrammetry-remote-sensing-dam/documents/pdf/Student_Theses/IPA_Rozniak.pdf), Supervision: Dr. Jan D. Wegner, Nico Lang, Prof. Konrad Schindler
 
--   2018: Interdisciplinary Project Luca Miotti[  Change Detection in Tropical Rainforests by Using Optical Satellite Images](https://ethz.ch/content/dam/ethz/special-interest/baug/igp/photogrammetry-remote-sensing-dam/documents/pdf/Student_Theses/IPA_Miotti.pdf), Supervision: Nico Lang, Andres C. Rodriguez, Dr. Jan D. Wegner, Prof. Konrad Schindler
+-   2018: Master's Thesis, Ursula Kälin, [Tree stress estimation with deep learning](https://ethz.ch/content/dam/ethz/special-interest/baug/igp/photogrammetry-remote-sensing-dam/documents/pdf/Student_Theses/MasterThesis_Kaelin.pdf), Supervision: Dr. Jan D. Wegner, Nico Lang, Prof. Arthur Gessler, Prof. Konrad Schindler
 
--   2018: Bachelor's Thesis Evelyn Weiss[  Street Tree Monitoring at City Scale](https://ethz.ch/content/dam/ethz/special-interest/baug/igp/photogrammetry-remote-sensing-dam/documents/pdf/Student_Theses/BA_EvelynWeiss.pdf), Supervision: Dr. Jan D. Wegner, Nico Lang, Prof. Konrad Schindler
+-   2018: Interdisciplinary Project, Luca Miotti, [Change Detection in Tropical Rainforests by Using Optical Satellite Images](https://ethz.ch/content/dam/ethz/special-interest/baug/igp/photogrammetry-remote-sensing-dam/documents/pdf/Student_Theses/IPA_Miotti.pdf), Supervision: Nico Lang, Andres C. Rodriguez, Dr. Jan D. Wegner, Prof. Konrad Schindler
+
+-   2018: Bachelor's Thesis, Evelyn Weiss, [Street Tree Monitoring at City Scale](https://ethz.ch/content/dam/ethz/special-interest/baug/igp/photogrammetry-remote-sensing-dam/documents/pdf/Student_Theses/BA_EvelynWeiss.pdf), Supervision: Dr. Jan D. Wegner, Nico Lang, Prof. Konrad Schindler
 
 
 Recommended resources
