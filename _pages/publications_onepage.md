@@ -11,9 +11,8 @@ More details on [Google Scholar](https://scholar.google.ch/citations?user=bVZtKs
 Nikolai Kalischek, Nico Lang, Cécile Renier, Rodrigo Caye Daudt, Thomas Addoah, William Thompson, Wilma J. Blaser-Hart, Rachael Garrett, Konrad Schindler, Jan D. Wegner\
 Nature Food (2023)\
 [article](https://doi.org/10.1038/s43016-023-00751-8) | 
-[code](https://langnico.github.io/globalcanopyheight/) |
+[code](https://github.com/D1noFuzi/cocoamapping) |
 [explore maps](https://nk.users.earthengine.app/view/cocoa-map) 
-
 
 **Doctoral Thesis: Mapping Vegetation Height — Probabilistic Deep Learning for Global Remote Sensing**\
 Nico Lang\
