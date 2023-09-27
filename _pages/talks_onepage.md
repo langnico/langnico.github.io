@@ -4,6 +4,8 @@ title: "Talks and other activities"
 permalink: /talks/
 author_profile: true
 ---
+-   September 2023: Invited talk at the RISE Research Institutes of Sweden in the [Learning Machines Seminars](https://www.ri.se/en/learningmachinesseminars): "Global vegetation monitoring with probabilistic deep learning" [[video](https://youtu.be/1b1mPRJ21og?si=w2ecXQRbQVNr9kYR)]
+
 -   May 2023: Invited talk at [AI for Good](https://aiforgood.itu.int/event/remote-sensing-enables-monitoring-life-above-and-under-water-global-vegetation-monitoring-with-probabilistic-deep-learning/): "Global vegetation monitoring with probabilistic deep learning". [[video](https://www.youtube.com/live/6krEymY4mEk?feature=share&t=3420)] [[slides](https://aiforgood.itu.int/wp-content/uploads/2021/06/AI-for-Good-Nico-Lang-Global-vegetation-monitoring-with-probabilistic-deep-learning_compressed.pdf)]
 
 -   May 2022: Oral presentation at ESA's Living Planet Symposium in Bonn about our work on global high-resolution canopy height mapping fusing Sentinel-2 and GEDI. See the [project page](https://langnico.github.io/globalcanopyheight/).

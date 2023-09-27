@@ -11,6 +11,8 @@ redirect_from:
 My name is Nico Lang and I am a Postdoc at the [University of Copenhagen](https://www.ku.dk/english/) associated with the [Pioneer centre for AI](https://www.aicentre.dk/), where I am co-advised by [Serge Belongie](https://sergebelongie.github.io/) and [Christian Igel](https://christian-igel.github.io/).
 I received my PhD from[  ETH Zurich](https://ethz.ch/en.html), where I was working in the[  EcoVision Lab](https://prs.igp.ethz.ch/ecovision.html) that is part of the[  Photogrammetry and Remote Sensing (PRS) group](https://prs.igp.ethz.ch/) under the supervision of[  Prof. Konrad Schindler](https://igp.ethz.ch/personen/person-detail.html?persid=143986) and[  Prof. Jan Dirk Wegner](https://igp.ethz.ch/personen/person-detail.html?persid=186562).
 
+[[Curriculum Vitae](../files/CV_Nico_Lang.pdf)] [[Headshot](../files/Nico_Lang.jpg)]
+
 **Research**\
 My research interests are in the area of computer vision, machine learning, and remote sensing and in developing new methods using these techniques to support environmental sciences. My [PhD research](https://www.research-collection.ethz.ch/handle/20.500.11850/554994) focused on advancing the way we measure forest structure at global scales using publicly available satellite data. My interests also include uncertainty estimation in deep learning, anomaly detection, and learning from imbalanced data, as these are omnipresent challenges that arise when working on real-world problems. I see great potential in the application of machine learning to address global environmental issues. 
 
@@ -25,11 +27,19 @@ I enjoy spending my free time outdoors hiking and snowboarding, playing volleyba
 
 News
 ======
+-   September 2023: Journal paper accepted in *Nature Ecology and Evolution*: [A high-resolution canopy height model of the Earth](https://www.nature.com/articles/s41559-023-02206-6). Our [project website](https://langnico.github.io/globalcanopyheight/) links all related resources (data, code). 
+
+-   September 2023: Workshop paper accepted on "Familiarity-Based Open-Set Recognition Under Adversarial Attacks". It will be presented at [The 2nd Workshop and Challenges for Out-of-Distribution Generalization in Computer Vision](http://www.ood-cv.org/) during ICCV 2023. 
+
+-   September 2023: Invited talk at the RISE Research Institutes of Sweden [Learning Machines Seminars](https://www.ri.se/en/learningmachinesseminars). The recording of the talk and the lively discussion is online. [[video](https://youtu.be/1b1mPRJ21og?si=w2ecXQRbQVNr9kYR)]
+
+-   September 2023: New journal publication in *Science Advances* led by Siyu Liu: [The overlooked contribution of trees outside forests to tree cover and woody biomass across Europe](https://doi.org/10.1126/sciadv.adh4097).
+
 -   July 2023: I am very happy to receive the [Culmann Prize](https://baug.ethz.ch/en/news-and-events/news/2023/07/awards-for-excellent-doctoral-theses.html) that recognizes outstanding doctoral theses.
 
 -   June 2023: Joined the CVPR23 "house band" as a drummer in Vancouver. 
 
--   May 2023: New journal publication in Nature Food led by [Nikolai Kalischek](https://d1nofuzi.github.io/): [Cocoa plantations are associated with deforestation in Côte d’Ivoire and Ghana](https://doi.org/10.1038/s43016-023-00751-8).
+-   May 2023: New journal publication in *Nature Food* led by [Nikolai Kalischek](https://d1nofuzi.github.io/): [Cocoa plantations are associated with deforestation in Côte d’Ivoire and Ghana](https://doi.org/10.1038/s43016-023-00751-8).
 
 -   May 2023: I am honored to have been named one of the [outstanding reviewers for CVPR 2023](https://cvpr2023.thecvf.com/Conferences/2023/OutstandingReviewers). 
 
