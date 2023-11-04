@@ -29,7 +29,7 @@ News
 ======
 -   September 2023: Journal paper accepted in *Nature Ecology and Evolution*: [A high-resolution canopy height model of the Earth](https://www.nature.com/articles/s41559-023-02206-6). Our [project website](https://langnico.github.io/globalcanopyheight/) links all related resources (data, code). 
 
--   September 2023: Workshop paper accepted on "Familiarity-Based Open-Set Recognition Under Adversarial Attacks". It will be presented at [The 2nd Workshop and Challenges for Out-of-Distribution Generalization in Computer Vision](http://www.ood-cv.org/) during ICCV 2023. 
+-   September 2023: Workshop paper accepted on "[Familiarity-Based Open-Set Recognition Under Adversarial Attacks](https://tinyurl.com/adversarial-OSR)". It will be presented at [The 2nd Workshop and Challenges for Out-of-Distribution Generalization in Computer Vision](http://www.ood-cv.org/) during ICCV 2023. 
 
 -   September 2023: Invited talk at the RISE Research Institutes of Sweden [Learning Machines Seminars](https://www.ri.se/en/learningmachinesseminars). The recording of the talk and the lively discussion is online. [[video](https://youtu.be/1b1mPRJ21og?si=w2ecXQRbQVNr9kYR)]
 

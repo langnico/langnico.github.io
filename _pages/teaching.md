@@ -39,7 +39,9 @@ Tutorials and workshops
 
 Student theses 
 ======
--   2023: Bachelor's Thesis, Philip Enevoldsen & Christian Gundersen, Impairing and Improving Open-Set Recognition with Adversarial Attacks, Supervisors: Nico Lang, Christian Igel
+-   2023: Caltech Summer Undergraduate Research Fellowships (SURF) project, Avirath Sundaresan, Evaluating open-set recognition approaches for re-identification, Supervisors: Nico Lang, Serge Belongie 
+
+-   2023: Bachelor's Thesis, Philip Enevoldsen & Christian Gundersen, Impairing and Improving Open-Set Recognition with Adversarial Attacks, Supervisors: Nico Lang, Christian Igel [[workshop paper](https://tinyurl.com/adversarial-OSR)]
 
 -   2022: Master's Thesis, Clémence Lanfranchi, [Global Biomass Mapping and Uncertainty
 Estimation from GEDI LIDAR Data using
