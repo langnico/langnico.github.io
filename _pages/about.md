@@ -11,7 +11,7 @@ redirect_from:
 My name is Nico Lang and I am a Postdoc at the [University of Copenhagen](https://www.ku.dk/english/) associated with the [Pioneer centre for AI](https://www.aicentre.dk/), where I am co-advised by [Serge Belongie](https://sergebelongie.github.io/) and [Christian Igel](https://christian-igel.github.io/).
 I received my PhD from[  ETH Zurich](https://ethz.ch/en.html), where I was working in the[  EcoVision Lab](https://prs.igp.ethz.ch/ecovision.html) that is part of the[  Photogrammetry and Remote Sensing (PRS) group](https://prs.igp.ethz.ch/) under the supervision of[  Prof. Konrad Schindler](https://igp.ethz.ch/personen/person-detail.html?persid=143986) and[  Prof. Jan Dirk Wegner](https://igp.ethz.ch/personen/person-detail.html?persid=186562).
 
-[[Curriculum Vitae](../files/CV_Nico_Lang.pdf)] [[Headshot](../files/Nico_Lang.jpg)]
+[[Curriculum Vitae](../files/CV_Nico_Lang.pdf)] [[Headshot](../files/Nico_Lang.jpg)] [[Bio](bio.md)]
 
 **Research**\
 My research interests are in the area of computer vision, machine learning, and remote sensing and in developing new methods using these techniques to support environmental sciences. My [PhD research](https://www.research-collection.ethz.ch/handle/20.500.11850/554994) focused on advancing the way we measure forest structure at global scales using publicly available satellite data. My interests also include uncertainty estimation in deep learning, anomaly detection, and learning from imbalanced data, as these are omnipresent challenges that arise when working on real-world problems. I see great potential in the application of machine learning to address global environmental issues. 
