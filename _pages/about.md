@@ -27,9 +27,13 @@ I enjoy spending my free time outdoors hiking and snowboarding, playing volleyba
 
 News
 ======
+-   March 2023: Paper accepted to CVPR 2024: [From Coarse to Fine-Grained Open-Set Recognition](https://langnico.github.io/fine-grained-osr/). TLDR: We investigate the role of label granularity, semantic similarity, and hierarchical representations in open-set recognition with a new benchmark based on iNat2021.
+
+-   January 2023: I am co-organizing the [11th Workshop of the Fine-Grained Visual Categorization](https://sites.google.com/view/fgvc11/) accepted to [CVPR 2024 in Seattle](https://cvpr.thecvf.com/Conferences/2024/workshop-list). 
+
 -   September 2023: Journal paper accepted in *Nature Ecology and Evolution*: [A high-resolution canopy height model of the Earth](https://www.nature.com/articles/s41559-023-02206-6). Our [project website](https://langnico.github.io/globalcanopyheight/) links all related resources (data, code). 
 
--   September 2023: Workshop paper accepted on "[Familiarity-Based Open-Set Recognition Under Adversarial Attacks](https://tinyurl.com/adversarial-OSR)". It will be presented at [The 2nd Workshop and Challenges for Out-of-Distribution Generalization in Computer Vision](http://www.ood-cv.org/) during ICCV 2023. 
+-   September 2023: Workshop paper accepted on "[Familiarity-Based Open-Set Recognition Under Adversarial Attacks](https://arxiv.org/abs/2311.05006)". It will be presented at [The 2nd Workshop and Challenges for Out-of-Distribution Generalization in Computer Vision](http://www.ood-cv.org/) during ICCV 2023. 
 
 -   September 2023: Invited talk at the RISE Research Institutes of Sweden [Learning Machines Seminars](https://www.ri.se/en/learningmachinesseminars). The recording of the talk and the lively discussion is online. [[video](https://youtu.be/1b1mPRJ21og?si=w2ecXQRbQVNr9kYR)]
 
