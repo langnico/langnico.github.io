@@ -7,6 +7,20 @@ author_profile: true
 
 More details on [Google Scholar](https://scholar.google.ch/citations?user=bVZtKsQAAAAJ&hl=en).
 
+**MMEarth: Exploring Multi-Modal Pretext Tasks For Geospatial Representation Learning**\
+Vishal Nedungadi, Ankit Kariryaa, Stefan Oehmcke, Serge Belongie, Christian Igel, Nico Lang\
+*arXiv (2024)*\
+[arxiv](https://arxiv.org/abs/2405.02771) |
+[project website](https://vishalned.github.io/mmearth/) |
+[code-data](https://github.com/vishalned/MMEarth-data) |
+[code-model](https://github.com/vishalned/MMEarth-train) 
+
+**From Coarse to Fine-Grained Open-Set Recognition**\
+Nico Lang, Vésteinn Snæbjarnarson, Elijah Cole, Oisin Mac Aodha, Christian Igel, and Serge Belongie\
+*Computer Vision and Pattern Recognition (CVPR 2024)*\
+[project website](https://langnico.github.io/fine-grained-osr/)
+
+
 **A high-resolution canopy height model of the Earth**\
 Nico Lang, Walter Jetz, Konrad Schindler, Jan Dirk Wegner\
 *Nature Ecology and Evolution* (2023)\
@@ -42,7 +56,7 @@ Dr. Habil. Bertrand Le Saux (European Space Agency)\
 
 **High carbon stock mapping at large scale with optical satellite imagery and spaceborne LIDAR**\
 Nico Lang, Konrad Schindler, Jan Dirk Wegner\
-*arxiv* (2021)\
+*arXiv* (2021)\
 [pdf](https://arxiv.org/pdf/2107.07431.pdf) | 
 [explore maps](https://nlang.users.earthengine.app/view/canopy-height-and-carbon-stock-southeast-asia-2020) | 
 [download maps](http://doi.org/10.5281/zenodo.5012448)

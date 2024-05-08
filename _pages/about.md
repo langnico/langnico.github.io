@@ -27,9 +27,17 @@ I enjoy spending my free time outdoors hiking and snowboarding, playing volleyba
 
 News
 ======
+-   May 2024: New preprint: [MMEarth: Exploring Multi-Modal Pretext Tasks For Geospatial Representation Learning](https://vishalned.github.io/mmearth/). TLDR: We created "MMEarth", a global dataset with 12 aligned modalities at 1.2M locations to explore multi-modal pretext tasks for learning representations for Sentinel-2 images.
+
+-   May 2024: Invited as a panelist to the [ML4RS](https://ml-for-rs.github.io/iclr2024/) workshop at ICLR 2024 in Vienna.     
+
+-   April 2024: I am visiting [Oisin Mac Aodha](https://homepages.inf.ed.ac.uk/omacaod/)'s group at University of Copenhagen for a two weeks research visit as part of a strategic partnership grant between UoE and KU.
+
+-   April 2024: I co-organized the [Visipedia workshop 2024](https://www.aicentre.dk/events/visipedia-workshop-2024) at the Pioneer Centre for AI. More info about the Visipedia project can be found [here](https://visipedia.org).
+
 -   March 2024: Paper accepted to CVPR 2024: [From Coarse to Fine-Grained Open-Set Recognition](https://langnico.github.io/fine-grained-osr/). TLDR: We investigate the role of label granularity, semantic similarity, and hierarchical representations in open-set recognition with a new benchmark based on iNat2021.
 
--   January 2024: I am co-organizing the [11th Workshop of the Fine-Grained Visual Categorization](https://sites.google.com/view/fgvc11/) accepted to [CVPR 2024 in Seattle](https://cvpr.thecvf.com/Conferences/2024/workshop-list). 
+-   January 2024: I am co-organizing the [11th Workshop of the Fine-Grained Visual Categorization](https://sites.google.com/view/fgvc11/) accepted to [CVPR 2024 in Seattle](https://cvpr.thecvf.com/Conferences/2024/workshop-list).
 
 -   September 2023: Journal paper accepted in *Nature Ecology and Evolution*: [A high-resolution canopy height model of the Earth](https://www.nature.com/articles/s41559-023-02206-6). Our [project website](https://langnico.github.io/globalcanopyheight/) links all related resources (data, code). 
 
