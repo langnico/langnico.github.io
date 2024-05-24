@@ -31,7 +31,7 @@ News
 
 -   May 2024: Invited as a panelist to the [ML4RS](https://ml-for-rs.github.io/iclr2024/) workshop at ICLR 2024 in Vienna.     
 
--   April 2024: I am visiting [Oisin Mac Aodha](https://homepages.inf.ed.ac.uk/omacaod/)'s group at University of Copenhagen for a two weeks research visit as part of a strategic partnership grant between UoE and KU.
+-   April 2024: I am visiting [Oisin Mac Aodha](https://homepages.inf.ed.ac.uk/omacaod/)'s group at University of Edinburgh for a two weeks research visit as part of a strategic partnership grant between UoE and KU.
 
 -   April 2024: I co-organized the [Visipedia workshop 2024](https://www.aicentre.dk/events/visipedia-workshop-2024) at the Pioneer Centre for AI. More info about the Visipedia project can be found [here](https://visipedia.org).
 
