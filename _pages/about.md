@@ -53,7 +53,7 @@ News
 
 -   July 2023: I am very happy to receive the [Culmann Prize](https://baug.ethz.ch/en/news-and-events/news/2023/07/awards-for-excellent-doctoral-theses.html) that recognizes outstanding doctoral theses.
 
--   June 2023: Joined the CVPR23 "house band" as a drummer in Vancouver. 
+-   June 2023: I joined the [CVPR23 "house band"](../files/CVPR23_Vancouver_June21.jpg) as a drummer in Vancouver. 
 
 -   May 2023: New journal publication in *Nature Food* led by [Nikolai Kalischek](https://d1nofuzi.github.io/): [Cocoa plantations are associated with deforestation in Côte d’Ivoire and Ghana](https://doi.org/10.1038/s43016-023-00751-8).
 
