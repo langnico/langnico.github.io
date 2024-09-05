@@ -37,6 +37,8 @@ News
 
 -   June 2024: We are organizing a summer PhD course on [SSL4EO: Self-Supervised Learning for Earth Observation](https://ankitkariryaa.github.io/ssl4eo/) at University of Copenhagen. Looking forward to a week full of interesting talks and discussions. Registration is open, seats are limited.
 
+-   June 2024: Invited talk at the [AI2](https://allenai.org/) Environmental seminar series, Seattle.
+    
 -   May 2024: Working with [Lucia Gordon](https://lgordon99.github.io/) from Harvard University during a summer visit to the Pioneer Centre for AI.
 
 -   May 2024: New preprint: [MMEarth: Exploring Multi-Modal Pretext Tasks For Geospatial Representation Learning](https://vishalned.github.io/mmearth/). TLDR: We created "MMEarth", a global dataset with 12 aligned modalities at 1.2M locations to explore multi-modal pretext tasks for learning representations for Sentinel-2 images.
