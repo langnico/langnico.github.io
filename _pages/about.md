@@ -27,6 +27,14 @@ I enjoy spending my free time outdoors hiking and snowboarding, playing volleyba
 
 News
 ======
+-   September 2024: Invited talk at the [LifeCLEF 2024 workshop](https://www.imageclef.org/LifeCLEF2024).
+
+-   August 2024: ECCV workshop paper accepted to CV4E: Multimodal Fusion Strategies for Mapping Biophysical Landscape Features (coming soon)
+
+-   June 2024: ECCV paper accepted: [Labeled Data Selection for Category Discovery](https://arxiv.org/abs/2406.04898). TLDR: Category discovery is improved by selecting labeled data that is neither too similar nor too different to the unlabeled categories.
+
+-   June 2024: ECCV paper accepted: [MMEarth: Exploring Multi-Modal Pretext Tasks For Geospatial Representation Learning](https://vishalned.github.io/mmearth/). TLDR: We created "MMEarth", a global dataset with 12 aligned modalities at 1.2M locations to explore multi-modal pretext tasks for learning representations for Sentinel-2 images.
+
 -   June 2024: We are organizing a summer PhD course on [SSL4EO: Self-Supervised Learning for Earth Observation](https://ankitkariryaa.github.io/ssl4eo/) at University of Copenhagen. Looking forward to a week full of interesting talks and discussions. Registration is open, seats are limited.
 
 -   May 2024: Working with [Lucia Gordon](https://lgordon99.github.io/) from Harvard University during a summer visit to the Pioneer Centre for AI.
