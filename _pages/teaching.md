@@ -21,10 +21,19 @@ Supervision of labs using geographic information systems (GIS) software.
 Teaching Volleyball elective courses (J+S school sport) at several high schools in Switzerland (2010-2017)
 
 
-Tutorials and workshops
+Workshops
 ======
+-   June 2024: I co-organized the summer PhD course: [SSL4EO: Self-Supervised Learning for Earth Observation](https://ankitkariryaa.github.io/ssl4eo/) at University of Copenhagen.
+
+-   June 2024: I co-organized the [10th Workshop on Fine-grained Visual Categorization (FGVC11)](https://sites.google.com/view/fgvc11) at CVPR 2024 in Seattle.
+
+-   April 2024: I co-organized the [Visipedia workshop 2024](https://www.aicentre.dk/events/visipedia-workshop-2024) at the Pioneer Centre for AI, Copenhagen.
+
 -   June 2023: I co-organized the [10th Workshop on Fine-grained Visual Categorization (FGVC10)](https://sites.google.com/view/fgvc10) at CVPR 2023 in Vancouver.
 
+
+Tutorials
+======
 -   September 2019: I co-organized together with Jan Dirk Wegner the tutorial on ["Deep Learning for Geospatial Data Analysis" at the ECML/PKDD Summer School (EPSS19)](https://ecmlpkdd2019.org/summerschool/programme/) in Würzburg, Germany.
 
 -   June 2019: I organized the tutorial on ["Deep learning for geospatial data analysis"  at the ISPRS Geospatial week](https://www.gsw2019.org/tutorial/) in Enschede, Netherlands. 
@@ -65,8 +74,12 @@ Recommended resources
 
 -   [Playground](http://playground.tensorflow.org/) is a great online tool to get an intuitive feeling for neural network hyperparameters.
 
--   The amazing [course notes](https://cs231n.github.io/) from [CS231n: Deep Learning for Computer Vision](http://cs231n.stanford.edu/) are great to learn about CNNs .
+-   The amazing [course notes](https://cs231n.github.io/) from [CS231n: Deep Learning for Computer Vision](http://cs231n.stanford.edu/) are great to learn about CNNs and more.
 
 -   [ML for Remote Sensing Discussion Group](https://docs.google.com/document/d/e/2PACX-1vQ5j59KWQCI7zvH-scVx6dh58ceC-ZiHJKRFl2Y64vC7rFWeJybivZBde3EpAxwGSUmmKY2THUjXGES/pub) organized by Hannah Kerner and Patrick Gray.
 
--   Medium post on ["How we write rebuttals"](https://deviparikh.medium.com/how-we-write-rebuttals-dc84742fece1) by Devi Parikh, Dhruv Batra, Stefan Lee
+-   Blog post on ["How we write rebuttals"](https://deviparikh.medium.com/how-we-write-rebuttals-dc84742fece1) by Devi Parikh, Dhruv Batra, Stefan Lee
+
+-   CVPR 2020 Tutorial: ["How to write good reviews?"](https://sites.google.com/view/making-reviews-great-again/) with recorded talks.
+
+-   Blog post on ["Novelty in science"](https://perceiving-systems.blog/en/news/novelty-in-science?s=09) by Michael Black.
