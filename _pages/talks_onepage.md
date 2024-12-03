@@ -4,6 +4,10 @@ title: "Talks and other activities"
 permalink: /talks/
 author_profile: true
 ---
+-   May 2025: Invited to give a talk at the [2025 Nordic Workshop on AI for Tackling Climate Change](https://ccainordics.com/events/2025-nordic-workshop).
+
+-   November 2024: Invited talk at the [DHI](https://www.dhigroup.com/).
+
 -   September 2024: Invited talk at the [LifeCLEF 2024 workshop](https://www.imageclef.org/LifeCLEF2024).
 
 -   June 2024: Invited talk at the [AI2](https://allenai.org/) Environmental seminar series, Seattle.

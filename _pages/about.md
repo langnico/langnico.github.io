@@ -27,9 +27,19 @@ I enjoy spending my free time outdoors hiking and snowboarding, playing volleyba
 
 News
 ======
+
+-   November 2024: I also joined Bluesky here: [@nicolang.bsky.social](https://bsky.app/profile/nicolang.bsky.social). Interesting starter packs to consider:
+    [Deep Learning for Earth Observation 🌎](https://go.bsky.app/EKVwvde) |
+    [AI for Conservation](https://go.bsky.app/UNUCejU) | 
+    [Computer Vision 1](https://go.bsky.app/M7HGC3Y) &  [Computer Vision 2](https://go.bsky.app/Gjcs339) by [@csprofkgd.bsky.social](https://bsky.app/profile/csprofkgd.bsky.social) | [Belongie Lab](https://go.bsky.app/GxkcTsp)
+
+-   November 2024: Invited talk at [DHI](https://www.dhigroup.com/) about representation learning for Earth observation data.
+
+-   November 2024: Joined the research network [Climate Change AI Nordics](https://ccainordics.com/). Invited to give a talk at the 1st workshop on May 13: [2025 Nordic Workshop on AI for Tackling Climate Change](https://ccainordics.com/events/2025-nordic-workshop).
+
 -   September 2024: Invited talk at the [LifeCLEF 2024 workshop](https://www.imageclef.org/LifeCLEF2024).
 
--   August 2024: ECCV workshop paper accepted to CV4E: Multimodal Fusion Strategies for Mapping Biophysical Landscape Features (coming soon)
+-   August 2024: ECCV workshop paper accepted to CV4E: [Multimodal Fusion Strategies for Mapping Biophysical Landscape Features](https://arxiv.org/abs/2410.04833)
 
 -   June 2024: ECCV paper accepted: [Labeled Data Selection for Category Discovery](https://arxiv.org/abs/2406.04898). TLDR: Category discovery is improved by selecting labeled data that is neither too similar nor too different to the unlabeled categories.
 
