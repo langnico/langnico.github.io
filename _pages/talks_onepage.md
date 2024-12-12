@@ -6,6 +6,8 @@ author_profile: true
 ---
 -   May 2025: Invited to give a talk at the [2025 Nordic Workshop on AI for Tackling Climate Change](https://ccainordics.com/events/2025-nordic-workshop).
 
+-   December 2024: Invited talk at [IIRS](https://www.iirs.gov.in/) for the winter course [BigAI for BigGIS](https://admission.iirs.gov.in/documents/121/121_course_flyer.pdf).
+
 -   November 2024: Invited talk at the [DHI](https://www.dhigroup.com/).
 
 -   September 2024: Invited talk at the [LifeCLEF 2024 workshop](https://www.imageclef.org/LifeCLEF2024).

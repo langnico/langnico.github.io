@@ -27,6 +27,7 @@ I enjoy spending my free time outdoors hiking and snowboarding, playing volleyba
 
 News
 ======
+-   December 2024: Invited talk at [IIRS](https://www.iirs.gov.in/) for the winter course [BigAI for BigGIS](https://admission.iirs.gov.in/documents/121/121_course_flyer.pdf).
 
 -   November 2024: I also joined Bluesky here: [@nicolang.bsky.social](https://bsky.app/profile/nicolang.bsky.social). Interesting starter packs to consider:
     [Deep Learning for Earth Observation 🌎](https://go.bsky.app/EKVwvde) |
@@ -36,6 +37,8 @@ News
 -   November 2024: Invited talk at [DHI](https://www.dhigroup.com/) about representation learning for Earth observation data.
 
 -   November 2024: Joined the research network [Climate Change AI Nordics](https://ccainordics.com/). Invited to give a talk at the 1st workshop on May 13: [2025 Nordic Workshop on AI for Tackling Climate Change](https://ccainordics.com/events/2025-nordic-workshop).
+
+-   November 2024: Invited talk at the [DHI](https://www.dhigroup.com/).
 
 -   September 2024: Invited talk at the [LifeCLEF 2024 workshop](https://www.imageclef.org/LifeCLEF2024).
 
