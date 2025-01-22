@@ -206,6 +206,7 @@ defaults:
       comments: true
       share: true
       related: true
+      show_title: false
   # _pages
   - scope:
       path: ""

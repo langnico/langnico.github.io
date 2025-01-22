@@ -7,7 +7,9 @@ author_profile: false
   {% include sidebar.html %}
 
   <div class="archive">
-    <h1 class="page__title">{{ page.title }}</h1>
+    {% if page.show_title != false %}
+      <h1 class="page__title">{{ page.title }}</h1>
+    {% endif %}
     {% include base_path %}
     {% for post in page.posts %}
       {% include archive-single.html %}
