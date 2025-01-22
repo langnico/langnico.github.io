@@ -277,6 +277,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-target-blank
 
 # mimic GitHub Pages with --safe
 whitelist:
