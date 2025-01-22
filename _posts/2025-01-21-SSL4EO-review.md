@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: 'SSL4EO-2024: A review of the 1st summer school on “Self-Supervised Learning for Earth Observation”'
+show_title: false
 date: 2025-01-21
 permalink: /posts/SSL4EO-2024-review/
 author_profile: true
@@ -9,6 +10,11 @@ tags:
   - summer course
   - workshop
 ---
+<p style="font-weight: bold; font-size: 3.0em">
+      <mark style="background-color: #5e6578; color: white">SSL4EO-2024: A review of the 1st summer school on “Self-Supervised Learning for Earth Observation”</mark>
+</p>
+
+
 
 ![image_info](https://lh3.googleusercontent.com/pw/AP1GczMe-dzf6SSNUfbOkSEf5IEiNkJT9EhiqYNnfbHbIHFyTsJU5nFeZFay8W_POU_k9gxFITX5HtUfJ__4eknCCG2DaT64xNV1dMBNioyhUZ7qla4nLy3sxyTUcUsZ-IWB_-FLnIdtfFqfcFQcKZA5ZZPh=w2880-h1272-s-no?authuser=0)
 *The SSL4EO-2024 cohort with 40 participants from 17 institutions (sold out!)*
@@ -57,14 +63,13 @@ To close this review, I would like to leave you with a piece called “EPOCH” 
 
 
 # Resources
+Course website: <https://ankitkariryaa.github.io/ssl4eo/>
 
-- Course website: <https://ankitkariryaa.github.io/ssl4eo/>
+Recordings: [[Youtube playlist](https://youtube.com/playlist?list=PLZbT99RJ8DPM2VtPhgWaACm9uiEmRfB6t&si=8mS3RoxW7680uYa8)]
 
-- Recordings: [[Youtube playlist](https://youtube.com/playlist?list=PLZbT99RJ8DPM2VtPhgWaACm9uiEmRfB6t&si=8mS3RoxW7680uYa8)]
+Slides: [[google drive](https://drive.google.com/drive/folders/1w98tdDctMOVy0ToD1lt9ZM3V2vV3VXtV?usp=sharing)]
 
-- Slides: [[google drive](https://drive.google.com/drive/folders/1w98tdDctMOVy0ToD1lt9ZM3V2vV3VXtV?usp=sharing)]
-
-- Waiting list: *Would you be interested in a future edition of this summer school? Please sign up for the waiting list and let us know what topic you would be interested in.* [[form](https://forms.gle/pq7kFhNUGCpyrav17)]
+Waiting list: *Would you be interested in a future edition of this summer school? Please sign up for the waiting list and let us know what topic you would be interested in.* [[form](https://forms.gle/pq7kFhNUGCpyrav17)]
 
 
 ## Reading list
@@ -148,3 +153,14 @@ To close this review, I would like to leave you with a piece called “EPOCH” 
   <object data="https://lh3.googleusercontent.com/pw/AP1GczMhCNcznx5Z7Zix3wJVfzRD8sMu26x3qEUHsAYLiphohti6S9KkB4pk8onyYj_eO_DYvsi_PSIl60JBUc1kHhQpWiC-Ks55UG4SdqjMyGlAGRYs5_U=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/pw/AP1GczNglOz799PYAStgq02zWk-vcu91vQoVM5LCtvFPTQE1p9faxsRKgXjfFda6FD6cf4BRqzwcSChKuq8tD0VPX63TWjBd0Fvx901o04tFmVIkM1rYtmA=w1920-h1080"></object>
 </div> 
+
+**Citation:** If you would like to cite this blog post please use:
+```
+@misc{lang2024ssl4eo,
+  author = {Lang, Nico},
+  title = {SSL4EO-2024: A review of the 1st summer school on Self-Supervised Learning for Earth Observation},
+  year = {2024},
+  howpublished = {\url{https://langnico.github.io/posts/SSL4EO-2024-review/}},
+}
+```
+
