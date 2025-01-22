@@ -27,6 +27,8 @@ I enjoy spending my free time outdoors hiking and snowboarding, playing volleyba
 
 News
 ======
+-   January 2025: SSL4EO-2024 summer school [recordings](https://youtube.com/playlist?list=PLZbT99RJ8DPM2VtPhgWaACm9uiEmRfB6t&si=8mS3RoxW7680uYa8) are released. A brief review with all resources in this [blog post](https://langnico.github.io/posts/SSL4EO-2024-review/). 
+
 -   December 2024: Invited talk at [IIRS](https://www.iirs.gov.in/) for the winter course [BigAI for BigGIS](https://admission.iirs.gov.in/documents/121/121_course_flyer.pdf).
 
 -   November 2024: I also joined Bluesky here: [@nicolang.bsky.social](https://bsky.app/profile/nicolang.bsky.social). Interesting starter packs to consider:

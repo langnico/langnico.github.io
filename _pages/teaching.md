@@ -23,7 +23,10 @@ Teaching Volleyball elective courses (J+S school sport) at several high schools 
 
 Workshops
 ======
--   June 2024: I co-organized the summer PhD course: [SSL4EO: Self-Supervised Learning for Earth Observation](https://ankitkariryaa.github.io/ssl4eo/) at University of Copenhagen.
+-   June 2024: I co-organized the summer PhD course: [SSL4EO: Self-Supervised Learning for Earth Observation](https://ankitkariryaa.github.io/ssl4eo/) at University of Copenhagen. 
+    [[recordings](https://youtube.com/playlist?list=PLZbT99RJ8DPM2VtPhgWaACm9uiEmRfB6t&si=8mS3RoxW7680uYa8)] 
+    [[slides](https://drive.google.com/drive/folders/1w98tdDctMOVy0ToD1lt9ZM3V2vV3VXtV?usp=sharing)] 
+    [[blog post](https://langnico.github.io/posts/SSL4EO-2024-review/)] 
 
 -   June 2024: I co-organized the [10th Workshop on Fine-grained Visual Categorization (FGVC11)](https://sites.google.com/view/fgvc11) at CVPR 2024 in Seattle.
 
