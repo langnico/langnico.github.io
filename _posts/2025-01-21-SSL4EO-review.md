@@ -60,14 +60,14 @@ To close this review, I would like to leave you with a piece called “EPOCH” 
 
 - Course website: <https://ankitkariryaa.github.io/ssl4eo/>
 
-- Recordings: \[youtube]
+- Recordings: [[Youtube playlist](https://youtube.com/playlist?list=PLZbT99RJ8DPM2VtPhgWaACm9uiEmRfB6t&si=8mS3RoxW7680uYa8)]
 
-- Slides: \[[google drive](https://drive.google.com/drive/folders/1w98tdDctMOVy0ToD1lt9ZM3V2vV3VXtV?usp=sharing)]
+- Slides: [[google drive](https://drive.google.com/drive/folders/1w98tdDctMOVy0ToD1lt9ZM3V2vV3VXtV?usp=sharing)]
 
 - Waiting list: *Would you be interested in a future edition of this summer school? Please sign up for the waiting list and let us know what topic you would be interested in.* [[form](https://forms.gle/pq7kFhNUGCpyrav17)]
 
 
-# Reading list
+## Reading list
 
 [A Cookbook of Self-Supervised Learning](https://arxiv.org/abs/2304.12210)
 
