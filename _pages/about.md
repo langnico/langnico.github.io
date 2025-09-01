@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-My name is Nico Lang and I am a Postdoc at the [University of Copenhagen](https://www.ku.dk/english/) associated with the [Pioneer centre for AI](https://www.aicentre.dk/), where I am co-advised by [Serge Belongie](https://sergebelongie.github.io/) and [Christian Igel](https://christian-igel.github.io/).
-I received my PhD from[  ETH Zurich](https://ethz.ch/en.html), where I was working in the[  EcoVision Lab](https://prs.igp.ethz.ch/ecovision.html) that is part of the[  Photogrammetry and Remote Sensing (PRS) group](https://prs.igp.ethz.ch/) under the supervision of[  Prof. Konrad Schindler](https://igp.ethz.ch/personen/person-detail.html?persid=143986) and[  Prof. Jan Dirk Wegner](https://igp.ethz.ch/personen/person-detail.html?persid=186562).
+My name is Nico Lang and I am an Assistant Professor of Computer Vision and Machine Learning for Earth Observation Data at the [University of Copenhagen](https://www.ku.dk/english/), associated with the[ Global Wetland Centre](https://globalwetlandcenter.ku.dk/) and the[ Pioneer Centre for AI](https://www.aicentre.dk/). I joined the[ Climate AI Nordics](https://climateainordics.com/) network as a core member and I am involved in several community efforts like the[ FGVC](https://sites.google.com/view/fgvc12/) workshop at CVPR or the[ SSL4EO-2024 summer school](https://langnico.github.io/posts/SSL4EO-2024-review/). Before moving to Denmark for a Postdoc advised by Serge Belongie and Christian Igel, I received a PhD from ETH Zurich supervised by Konrad Schindler and Jan Dirk Wegner.
+
+
 
 [[Curriculum Vitae](../files/CV_Nico_Lang.pdf)] [[Headshot](../files/Nico_Lang.jpg)] [[Bio](bio.md)]
 
@@ -27,13 +28,33 @@ I enjoy spending my free time outdoors hiking and snowboarding, playing volleyba
 
 News
 ======
+-   September 2025: Invited as a panelist to the "Nordic-Alan Turing Institute AI Research Workshop
+& Embassy Network Event" in Oslo.
+
+-   September 2025: Invited talk at Wageningen University & Research.
+
+-   August 2025: Invited talk at the D3A conference deep dive session: [From Pixels to Products: CV in Danish Research & Industry](https://d3aconference.dk/from-pixels-to-products-cv-in-danish-research-industry/)
+
+-   June 2025: Invited keynote at the OpenGeoHub summer school "[Data Science for Earth observation](https://opengeohub.org/summer-school/summer-school-2025/)" in Wageningen. I will also give a lecture on self-supervised learning.
+
+-   May 2025: Giving three talks (here is a short [summary post](https://www.linkedin.com/posts/n-lang_on-my-way-to-scia-the-scandinavian-conference-activity-7341804663534436352-F2w0?utm_source=share&utm_medium=member_desktop&rcm=ACoAACvUHLIBlPUNB5kcL7y1pJUDBVaVgaxFmIM)) at: [ESA-NASA International Workshop on AI Foundation Model for EO](https://nikal.eventsair.com/nasa-esa-international-workshop-on-geospatial-ai-foundation-model-for-earth-observation-and-earth-sciences/), [2025 Nordic Workshop on AI for Tackling Climate Change](https://climateainordics.com/events/2025-nordic-workshop), and [SCIA workshop on Challenges in Analysis of Large Image Data](https://scia2025.org/).
+
+-   April 2025: I joined the core team of the [Climate AI Nordics](https://climateainordics.com/) network. Please join us! 
+
+-   April 2025: Paper accepted to CVPR 2025: [Taxonomy-Aware Evaluation of Vision-Language Models](https://arxiv.org/abs/2504.05457).
+
+-   March 2025: I started a [new position](https://www.linkedin.com/posts/global-wetland-center_the-global-wetland-center-is-delighted-to-activity-7302694633979969538-KztF?utm_source=share&utm_medium=member_desktop&rcm=ACoAACvUHLIBlPUNB5kcL7y1pJUDBVaVgaxFmIM) as an Assistant Professor at the Computer Science Department at University of Copenhagen. In this new role I join the [Global Wetland Centre](https://globalwetlandcenter.ku.dk/), that studies the greenhouse gas balance of global wetlands. 
+
 -   January 2025: SSL4EO-2024 summer school [recordings](https://youtube.com/playlist?list=PLZbT99RJ8DPM2VtPhgWaACm9uiEmRfB6t&si=8mS3RoxW7680uYa8) are released. A brief review with all resources in this [blog post](https://langnico.github.io/posts/SSL4EO-2024-review/). 
+
+-   December 2024: Paper accepted to NLDL 2025 published in PMLR: [Familiarity-Based Open-Set Recognition Under Adversarial Attacks](https://proceedings.mlr.press/v265/enevoldsen25a.html)
 
 -   December 2024: Invited talk at [IIRS](https://www.iirs.gov.in/) for the winter course [BigAI for BigGIS](https://admission.iirs.gov.in/documents/121/121_course_flyer.pdf).
 
 -   November 2024: I also joined Bluesky here: [@nicolang.bsky.social](https://bsky.app/profile/nicolang.bsky.social). Interesting starter packs to consider:
     [Deep Learning for Earth Observation 🌎](https://go.bsky.app/EKVwvde) |
     [AI for Conservation](https://go.bsky.app/UNUCejU) | 
+    [AI and Ecology](https://go.bsky.app/8zugFF6) | 
     [Computer Vision 1](https://go.bsky.app/M7HGC3Y) &  [Computer Vision 2](https://go.bsky.app/Gjcs339) by [@csprofkgd.bsky.social](https://bsky.app/profile/csprofkgd.bsky.social) | [Belongie Lab](https://go.bsky.app/GxkcTsp)
 
 -   November 2024: Invited talk at [DHI](https://www.dhigroup.com/) about representation learning for Earth observation data.
