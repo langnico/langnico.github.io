@@ -31,7 +31,7 @@ News
 -   September 2025: Invited as a panelist to the "Nordic-Alan Turing Institute AI Research Workshop
 & Embassy Network Event" in Oslo.
 
--   September 2025: Invited talk at Wageningen University & Research.
+-   September 2025: Invited to give a seminar talk at Wageningen University & Research (WUR), visiting [Prof. Ioannis Athanasiadis](https://www.wur.nl/nl/personen/ioannis-athanasiadis.htm).
 
 -   August 2025: Invited talk at the D3A conference deep dive session: [From Pixels to Products: CV in Danish Research & Industry](https://d3aconference.dk/from-pixels-to-products-cv-in-danish-research-industry/)
 
