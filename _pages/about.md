@@ -28,6 +28,12 @@ I enjoy spending my free time outdoors hiking and snowboarding, playing volleyba
 
 News
 ======
+-   September 2025: I'll be an Area Chair for [CVPR 2026](https://cvpr.thecvf.com/)
+
+-   September 2025: [EurIPS](https://eurips.cc/) is coming to Copenhagen and we got two exciting workshops accepted: [AICC: Workshop on AI for Climate and Conservation](https://sites.google.com/g.harvard.edu/aicceurips) and [REO: Advances in Representation Learning for Earth Observation](https://sites.google.com/view/reoeurips) (Call for participation deadlines Oct 10/Oct 15).
+
+-   September 2025: The Pioneer Centre for AI (short P1) launched the [P1 programs initiative](https://www.aicentre.dk/active-p1-programs). I am co-directing the P1 program on AI for Climate & Conservation.
+
 -   September 2025: Invited as a panelist to the "Nordic-Alan Turing Institute AI Research Workshop
 & Embassy Network Event" in Oslo.
 
