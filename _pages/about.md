@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Nico Lang and I am an Assistant Professor of Computer Vision and Machine Learning for Earth Observation Data at the [University of Copenhagen](https://www.ku.dk/english/), associated with the[ Global Wetland Centre](https://globalwetlandcenter.ku.dk/) and the[ Pioneer Centre for AI](https://www.aicentre.dk/). I joined the[ Climate AI Nordics](https://climateainordics.com/) network as a core member and I am involved in several community efforts like the[ FGVC](https://sites.google.com/view/fgvc12/) workshop at CVPR or the[ SSL4EO-2024 summer school](https://langnico.github.io/posts/SSL4EO-2024-review/). Before moving to Denmark for a Postdoc advised by Serge Belongie and Christian Igel, I received a PhD from ETH Zurich supervised by Konrad Schindler and Jan Dirk Wegner.
+My name is Nico Lang and I am an Assistant Professor of Computer Vision and Machine Learning for Earth Observation Data at the [University of Copenhagen](https://www.ku.dk/english/), associated with the[ Global Wetland Centre](https://globalwetlandcenter.ku.dk/) and the[ Pioneer Centre for AI](https://www.aicentre.dk/). I joined the [Climate AI Nordics](https://climateainordics.com/) network as a core member and I am involved in several community efforts like the [FGVC](https://sites.google.com/view/fgvc12/) workshop at CVPR, the [AICC](https://sites.google.com/g.harvard.edu/aicceurips) and [REO](https://sites.google.com/view/reoeurips) workshops at EurIPS, and the [SSL4EO-2024 summer school](https://langnico.github.io/posts/SSL4EO-2024-review/). Before moving to Copenhagen for a Postdoc advised by Serge Belongie and Christian Igel, I received a PhD from ETH Zurich supervised by Konrad Schindler and Jan Dirk Wegner.
 
 
 
