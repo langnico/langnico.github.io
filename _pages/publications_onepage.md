@@ -14,6 +14,7 @@ More details on [Google Scholar](https://scholar.google.ch/citations?user=bVZtKs
 Yuyan Chen, <u>Nico Lang</u>, B. Christian Schmidt, Aditya Jain, Yves Basset, Sara Beery, Maxim Larrivée, David Rolnick\
 *NeurIPS 2025 Dataset and Benchmark Track* **(Spotlight)**\
 [[arxiv]](https://arxiv.org/abs/2503.01691) 
+[[project website]](https://yuyan-c.github.io/open-insect-project/)
 [[code]](https://github.com/RolnickLab/Open-Insect)
 [[dataset]](https://huggingface.co/datasets/yuyan-chen/open-insect)
 
