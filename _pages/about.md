@@ -28,6 +28,10 @@ I enjoy spending my free time outdoors hiking and snowboarding, playing volleyba
 
 News
 ======
+-   November 2025: Paper accepted to NeurIPS 2025 Dataset and Benchmark Track (Spotlight): [Open-Insect: Benchmarking Open-Set Recognition of Novel Species in Biodiversity Monitoring](https://arxiv.org/abs/2503.01691).
+
+-   October 2025: Paper accepted in the journal Science of Remote Sensing: [Drone imagery for roof detection, classification, and segmentation to support mosquito-borne disease risk assessment: The Nacala-Roof-Material dataset](https://doi.org/10.1016/j.srs.2025.100306). Data and code on the [project website](https://mosquito-risk.github.io/Nacala/]). 
+
 -   September 2025: I'll be an Area Chair for [CVPR 2026](https://cvpr.thecvf.com/)
 
 -   September 2025: [EurIPS](https://eurips.cc/) is coming to Copenhagen and we got two exciting workshops accepted: [AICC: Workshop on AI for Climate and Conservation](https://sites.google.com/g.harvard.edu/aicceurips) and [REO: Advances in Representation Learning for Earth Observation](https://sites.google.com/view/reoeurips) (Call for participation deadlines Oct 10/Oct 15).
