@@ -5,10 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 
-More details on [Google Scholar](https://scholar.google.ch/citations?user=bVZtKsQAAAAJ&hl=en).
+These are selected publications. A complete and updated list can be found on [Google Scholar](https://scholar.google.ch/citations?user=bVZtKsQAAAAJ&hl=en).
 
 
-
+**SuperF: Neural Implicit Fields for Multi-Image Super-Resolution**\
+Sander Riisøen Jyhne, Christian Igel, Morten Goodwin, Per-Arne Andersen, Serge Belongie, <u>Nico Lang</u>\
+*arXiv preprint (2025)*\
+[[arxiv]](https://www.arxiv.org/abs/2512.09115) 
+[[project website]](https://sjyhne.github.io/superf/)
+[[demo]](https://huggingface.co/spaces/sjyhne/superf_demo)
 
 **Open-Insect: Benchmarking Open-Set Recognition of Novel Species in Biodiversity Monitoring**\
 Yuyan Chen, <u>Nico Lang</u>, B. Christian Schmidt, Aditya Jain, Yves Basset, Sara Beery, Maxim Larrivée, David Rolnick\

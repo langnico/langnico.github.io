@@ -28,6 +28,8 @@ I enjoy spending my free time outdoors hiking and snowboarding, playing volleyba
 
 News
 ======
+-   December 2025: New preprint: [SuperF: Neural Implicit Fields for Multi-Image Super-Resolution](https://www.arxiv.org/abs/2512.09115). See the [project page](https://sjyhne.github.io/superf/) for the demo to super-resolve Sentinel-2 satellite images for any place on Earth.
+
 -   November 2025: Paper accepted to NeurIPS 2025 Dataset and Benchmark Track (**Spotlight**): [Open-Insect: Benchmarking Open-Set Recognition of Novel Species in Biodiversity Monitoring](https://arxiv.org/abs/2503.01691). See [project page](https://yuyan-c.github.io/open-insect-project/) for benchmark dataset and code.
 
 -   October 2025: Paper accepted in the journal Science of Remote Sensing: [Drone imagery for roof detection, classification, and segmentation to support mosquito-borne disease risk assessment: The Nacala-Roof-Material dataset](https://doi.org/10.1016/j.srs.2025.100306). Data and code on the [project website](https://mosquito-risk.github.io/Nacala/]). 
