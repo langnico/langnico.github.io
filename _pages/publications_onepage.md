@@ -23,7 +23,7 @@ Yuyan Chen, <u>Nico Lang</u>, B. Christian Schmidt, Aditya Jain, Yves Basset, Sa
 [[code]](https://github.com/RolnickLab/Open-Insect)
 [[dataset]](https://huggingface.co/datasets/yuyan-chen/open-insect)
 
-**Drone imagery for roof detection, classification, and segmentation to support mosquito-borne disease risk assessment: The Nacala-Roof-Material dataset**
+**Drone imagery for roof detection, classification, and segmentation to support mosquito-borne disease risk assessment: The Nacala-Roof-Material dataset**\
 Venkanna Babu Guthula, Stefan Oehmcke, Remigio Chilaule, Hui Zhang, <u>Nico Lang</u>, Ankit Kariryaa, Johan Mottelson, Christian Igel
 *Science of Remote Sensing (2025)*\
 [[article]](https://doi.org/10.1016/j.srs.2025.100306)

@@ -4,12 +4,14 @@ title: "Talks and other activities"
 permalink: /talks/
 author_profile: true
 ---
+-   March 2026: Invited keynote at the ["ELLIS Winter School 2026: AI for Earth System, Hazards & Climate Extremes"](https://meditwin-project.eu/ai4eo-winter-school/) 
+
 -   September 2025: Invited as a panelist to the "Nordic-Alan Turing Institute AI Research Workshop
 & Embassy Network Event" in Oslo.
 
 -   September 2025: Seminar talk at Wageningen University & Research.
 
--   September 2025: Invited keynote and lecture at the OpenGeoHub summer school "[Data Science for Earth observation](https://opengeohub.org/summer-school/summer-school-2025/)" in Wageningen. 
+-   September 2025: Invited keynote [[video](https://youtu.be/-yaKKHE1dJ4?si=hZwZdut2yFAfIo5V)] and lecture [[video](https://youtu.be/Gr93AXHnRAA?si=kI5T64oqh1rElHwA)] at the OpenGeoHub summer school "[Data Science for Earth observation](https://opengeohub.org/summer-school/summer-school-2025/)" in Wageningen. 
 
 -   August 2025: Invited talk and panelist at the D3A conference deep dive session: [From Pixels to Products: CV in Danish Research & Industry](https://d3aconference.dk/from-pixels-to-products-cv-in-danish-research-industry/)
 
@@ -17,7 +19,7 @@ author_profile: true
 
 -   May 2025: Oral talk at the [ESA-NASA International Workshop on AI Foundation Model for EO](https://nikal.eventsair.com/nasa-esa-international-workshop-on-geospatial-ai-foundation-model-for-earth-observation-and-earth-sciences/). [[video](https://youtu.be/KXeBKgWM_xU?si=C83Ku8XOiopS6Cwr&t=13124)]
 
--   May 2025: Invited to give a talk at the [2025 Nordic Workshop on AI for Tackling Climate Change](https://ccainordics.com/events/2025-nordic-workshop).
+-   May 2025: Invited talk at the [2025 Nordic Workshop on AI for Tackling Climate Change](https://ccainordics.com/events/2025-nordic-workshop). [[video](https://youtu.be/ZojjguJWY0E?si=cRD8FZZvM5Pq0sWE)]
 
 -   December 2024: Invited talk at [IIRS](https://www.iirs.gov.in/) for the winter course [BigAI for BigGIS](https://admission.iirs.gov.in/documents/121/121_course_flyer.pdf).
 

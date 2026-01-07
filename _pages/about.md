@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Nico Lang and I am an Assistant Professor of Computer Vision and Machine Learning for Earth Observation Data at the [University of Copenhagen](https://www.ku.dk/english/), associated with the[ Global Wetland Centre](https://globalwetlandcenter.ku.dk/) and the[ Pioneer Centre for AI](https://www.aicentre.dk/). I joined the [Climate AI Nordics](https://climateainordics.com/) network as a core member and I am involved in several community efforts like the [FGVC](https://sites.google.com/view/fgvc12/) workshop at CVPR, the [AICC](https://sites.google.com/g.harvard.edu/aicceurips) and [REO](https://sites.google.com/view/reoeurips) workshops at EurIPS, and the [SSL4EO-2024 summer school](https://langnico.github.io/posts/SSL4EO-2024-review/). Before moving to Copenhagen for a Postdoc advised by Serge Belongie and Christian Igel, I received a PhD from ETH Zurich supervised by Konrad Schindler and Jan Dirk Wegner.
+My name is Nico Lang and I am an Assistant Professor of Computer Vision and Machine Learning for Earth Observation Data at the [University of Copenhagen](https://www.ku.dk/english/), associated with the[ Global Wetland Centre](https://globalwetlandcenter.ku.dk/) and the[ Pioneer Centre for AI](https://www.aicentre.dk/). I joined the [Climate AI Nordics](https://climateainordics.com/) network as a core member and I am involved in several community efforts like the [FGVC](https://sites.google.com/view/fgvc13/) workshop at CVPR, the [AICC](https://sites.google.com/g.harvard.edu/aicceurips) and [REO](https://sites.google.com/view/reoeurips) workshops at EurIPS, and the [SSL4EO-2024 summer school](https://langnico.github.io/posts/SSL4EO-2024-review/). Before moving to Copenhagen for a Postdoc advised by Serge Belongie and Christian Igel, I received a PhD from ETH Zurich supervised by Konrad Schindler and Jan Dirk Wegner.
 
 
 
@@ -28,6 +28,13 @@ I enjoy spending my free time outdoors hiking and snowboarding, playing volleyba
 
 News
 ======
+-   Jan 2026: Co-organising the [FGVC13](https://sites.google.com/view/fgvc13) workshop at CVPR 2026.
+
+
+-   Jan 2026: Recordings of our [EurIPS AICC workshop](https://sites.google.com/g.harvard.edu/aicceurips) are released on the Climate AI Nordics channel [here](https://www.youtube.com/playlist?list=PL6JkQH3tvn4SPEkEpC8ATiUQXHvB871PX).
+
+-   Jan 2026: Invited keynote at the ["ELLIS Winter School 2026: AI for Earth System, Hazards & Climate Extremes"](https://meditwin-project.eu/ai4eo-winter-school/) | March 16 – 20, 2026 | National Technical University of Athens (Greece)
+
 -   December 2025: New preprint: [SuperF: Neural Implicit Fields for Multi-Image Super-Resolution](https://www.arxiv.org/abs/2512.09115). See the [project page](https://sjyhne.github.io/superf/) for the demo to super-resolve Sentinel-2 satellite images for any place on Earth.
 
 -   November 2025: Paper accepted to NeurIPS 2025 Dataset and Benchmark Track (**Spotlight**): [Open-Insect: Benchmarking Open-Set Recognition of Novel Species in Biodiversity Monitoring](https://arxiv.org/abs/2503.01691). See [project page](https://yuyan-c.github.io/open-insect-project/) for benchmark dataset and code.
@@ -56,6 +63,8 @@ News
 -   April 2025: Paper accepted to CVPR 2025: [Taxonomy-Aware Evaluation of Vision-Language Models](https://arxiv.org/abs/2504.05457).
 
 -   March 2025: I started a [new position](https://www.linkedin.com/posts/global-wetland-center_the-global-wetland-center-is-delighted-to-activity-7302694633979969538-KztF?utm_source=share&utm_medium=member_desktop&rcm=ACoAACvUHLIBlPUNB5kcL7y1pJUDBVaVgaxFmIM) as an Assistant Professor at the Computer Science Department at University of Copenhagen. In this new role I join the [Global Wetland Centre](https://globalwetlandcenter.ku.dk/), that studies the greenhouse gas balance of global wetlands. 
+
+-   Jan 2025: Co-organising the [FGVC12](https://sites.google.com/view/fgvc12) workshop at CVPR 2025.
 
 -   January 2025: SSL4EO-2024 summer school [recordings](https://youtube.com/playlist?list=PLZbT99RJ8DPM2VtPhgWaACm9uiEmRfB6t&si=8mS3RoxW7680uYa8) are released. A brief review with all resources in this [blog post](https://langnico.github.io/posts/SSL4EO-2024-review/). 
 
