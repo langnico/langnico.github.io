@@ -28,12 +28,14 @@ I enjoy spending my free time outdoors hiking and snowboarding, playing volleyba
 
 News
 ======
+-   Jan 2026: I am an [ELLIS](https://ellis.eu/) member.
+
 -   Jan 2026: Co-organising the [FGVC13](https://sites.google.com/view/fgvc13) workshop at CVPR 2026.
 
 
 -   Jan 2026: Recordings of our [EurIPS AICC workshop](https://sites.google.com/g.harvard.edu/aicceurips) are released on the Climate AI Nordics channel [here](https://www.youtube.com/playlist?list=PL6JkQH3tvn4SPEkEpC8ATiUQXHvB871PX).
 
--   Jan 2026: Invited keynote at the ["ELLIS Winter School 2026: AI for Earth System, Hazards & Climate Extremes"](https://meditwin-project.eu/ai4eo-winter-school/) | March 16 – 20, 2026 | National Technical University of Athens (Greece)
+-   Jan 2026: Invited keynote at the ["ELLIS Winter School 2026: AI for Earth System, Hazards & Climate Extremes"](https://meditwin-project.eu/ai4eo-winter-school/). March 16 – 20, 2026, National Technical University of Athens (Greece)
 
 -   December 2025: New preprint: [SuperF: Neural Implicit Fields for Multi-Image Super-Resolution](https://www.arxiv.org/abs/2512.09115). See the [project page](https://sjyhne.github.io/superf/) for the demo to super-resolve Sentinel-2 satellite images for any place on Earth.
 
