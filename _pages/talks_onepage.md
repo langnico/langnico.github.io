@@ -4,14 +4,18 @@ title: "Talks and other activities"
 permalink: /talks/
 author_profile: true
 ---
+-   October 2026: Invited keynote at the [Open-Earth-Monitor Cyberinfrastructure (OEMC) Global Workshop 2026: “Next-Generation EO & GeoAI Built on Openness and Distributed Data”](https://earthmonitor.org/global-workshop-2026/), 7–9 October 2026, Barcelona, Spain (hosted by CREAF and the OpenGeoHub Foundation). 
+
 -   March 2026: Invited keynote at the ["ELLIS Winter School 2026: AI for Earth System, Hazards & Climate Extremes"](https://meditwin-project.eu/ai4eo-winter-school/) 
+
+___
 
 -   September 2025: Invited as a panelist to the "Nordic-Alan Turing Institute AI Research Workshop
 & Embassy Network Event" in Oslo.
 
 -   September 2025: Seminar talk at Wageningen University & Research.
 
--   September 2025: Invited keynote [[video](https://youtu.be/-yaKKHE1dJ4?si=hZwZdut2yFAfIo5V)] and lecture [[video](https://youtu.be/Gr93AXHnRAA?si=kI5T64oqh1rElHwA)] at the OpenGeoHub summer school "[Data Science for Earth observation](https://opengeohub.org/summer-school/summer-school-2025/)" in Wageningen. 
+-   September 2025: Invited keynote [[video (slide recording issue will be fixed)](https://youtu.be/-yaKKHE1dJ4?si=hZwZdut2yFAfIo5V)] and lecture [[video](https://youtu.be/Gr93AXHnRAA?si=kI5T64oqh1rElHwA)] at the OpenGeoHub summer school "[Data Science for Earth observation](https://opengeohub.org/summer-school/summer-school-2025/)" in Wageningen. 
 
 -   August 2025: Invited talk and panelist at the D3A conference deep dive session: [From Pixels to Products: CV in Danish Research & Industry](https://d3aconference.dk/from-pixels-to-products-cv-in-danish-research-industry/)
 
