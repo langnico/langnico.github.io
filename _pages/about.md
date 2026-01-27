@@ -30,7 +30,7 @@ News
 ======
 -   Jan 2026: I'll be an Area Chair for ECCV 2026
 
--   Jan 2026: Paper accepted to ICLR 2025. Checkout the SuperF [project page](https://sjyhne.github.io/superf/).
+-   Jan 2026: Paper accepted to ICLR 2026. Checkout the [SuperF project page](https://sjyhne.github.io/superf/).
 
 -   Jan 2026: Invited keynote at the [Open-Earth-Monitor Cyberinfrastructure (OEMC) Global Workshop 2026: “Next-Generation EO & GeoAI Built on Openness and Distributed Data”](https://earthmonitor.org/global-workshop-2026/), 7–9 October 2026, Barcelona, Spain (hosted by CREAF and the OpenGeoHub Foundation). 
 
