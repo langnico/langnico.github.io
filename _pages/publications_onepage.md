@@ -10,7 +10,7 @@ These are selected publications. A complete and updated list can be found on [Go
 
 **SuperF: Neural Implicit Fields for Multi-Image Super-Resolution**\
 Sander Riisøen Jyhne, Christian Igel, Morten Goodwin, Per-Arne Andersen, Serge Belongie, <u>Nico Lang</u>\
-*arXiv preprint (2025)*\
+*ICLR 2026*\
 [[arxiv]](https://www.arxiv.org/abs/2512.09115) 
 [[project website]](https://sjyhne.github.io/superf/)
 [[demo]](https://huggingface.co/spaces/sjyhne/superf_demo)
@@ -24,7 +24,7 @@ Yuyan Chen, <u>Nico Lang</u>, B. Christian Schmidt, Aditya Jain, Yves Basset, Sa
 [[dataset]](https://huggingface.co/datasets/yuyan-chen/open-insect)
 
 **Drone imagery for roof detection, classification, and segmentation to support mosquito-borne disease risk assessment: The Nacala-Roof-Material dataset**\
-Venkanna Babu Guthula, Stefan Oehmcke, Remigio Chilaule, Hui Zhang, <u>Nico Lang</u>, Ankit Kariryaa, Johan Mottelson, Christian Igel
+Venkanna Babu Guthula, Stefan Oehmcke, Remigio Chilaule, Hui Zhang, <u>Nico Lang</u>, Ankit Kariryaa, Johan Mottelson, Christian Igel\
 *Science of Remote Sensing (2025)*\
 [[article]](https://doi.org/10.1016/j.srs.2025.100306)
 [[project website]](https://mosquito-risk.github.io/Nacala/)
