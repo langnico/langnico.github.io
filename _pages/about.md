@@ -28,7 +28,10 @@ I enjoy spending my free time outdoors hiking and snowboarding, playing volleyba
 
 News
 ======
--   March 2026: Recordings of our [EurIPS 2025 REO workshop](https://sites.google.com/view/reoeurips) are released [here](https://youtube.com/playlist?list=PLhNBbLCOEGoiIymqLFEQOUyy5FsVfkJwL&si=M5s5Tj87j-dSnRKj).
+-   Mar 2026: We're hiring a PhD at UCPH for the Global Wetland Center: [PhD fellowship in Machine Learning for Environmental Sciences - Department of Computer Science](https://candidate.hr-manager.net/ApplicationInit.aspx/?cid=3010&departmentId=19976&ProjectId=158597&MediaId=4917&SkipAdvertisement=false)
+
+
+-   Mar 2026: Recordings of our [EurIPS 2025 REO workshop](https://sites.google.com/view/reoeurips) are released [here](https://youtube.com/playlist?list=PLhNBbLCOEGoiIymqLFEQOUyy5FsVfkJwL&si=M5s5Tj87j-dSnRKj).
 
 -   Feb 2026: New benchmark and preprint out: [MMEarth-Bench: Global Model Adaptation via Multimodal Test-Time Training](https://mmearth-bench.com/)
 
