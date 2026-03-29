@@ -28,6 +28,10 @@ I enjoy spending my free time outdoors hiking and snowboarding, playing volleyba
 
 News
 ======
+-   March 2026: Recordings of our [EurIPS 2025 REO workshop](https://sites.google.com/view/reoeurips) are released [here](https://youtube.com/playlist?list=PLhNBbLCOEGoiIymqLFEQOUyy5FsVfkJwL&si=M5s5Tj87j-dSnRKj).
+
+-   Feb 2026: New benchmark and preprint out: [MMEarth-Bench: Global Model Adaptation via Multimodal Test-Time Training](https://mmearth-bench.com/)
+
 -   Jan 2026: I'll be an Area Chair for ECCV 2026
 
 -   Jan 2026: Paper accepted to ICLR 2026. Checkout the [SuperF project page](https://sjyhne.github.io/superf/).
@@ -38,7 +42,7 @@ News
 
 -   Jan 2026: Co-organising the [FGVC13](https://sites.google.com/view/fgvc13) workshop at CVPR 2026.
 
--   Jan 2026: Recordings of our [EurIPS AICC workshop](https://sites.google.com/g.harvard.edu/aicceurips) are released on the Climate AI Nordics channel [here](https://www.youtube.com/playlist?list=PL6JkQH3tvn4SPEkEpC8ATiUQXHvB871PX).
+-   Jan 2026: Recordings of our [EurIPS 2025 AICC workshop](https://sites.google.com/g.harvard.edu/aicceurips) are released on the Climate AI Nordics channel [here](https://www.youtube.com/playlist?list=PL6JkQH3tvn4SPEkEpC8ATiUQXHvB871PX).
 
 -   Jan 2026: Invited keynote at the ["ELLIS Winter School 2026: AI for Earth System, Hazards & Climate Extremes"](https://meditwin-project.eu/ai4eo-winter-school/). March 16 – 20, 2026, National Technical University of Athens (Greece)
 

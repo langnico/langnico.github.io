@@ -8,6 +8,14 @@ author_profile: true
 These are selected publications. A complete and updated list can be found on [Google Scholar](https://scholar.google.ch/citations?user=bVZtKsQAAAAJ&hl=en).
 
 
+**MMEarth-Bench: Global Model Adaptation via Multimodal Test-Time Training**\
+Lucia Gordon, Serge Belongie, Christian Igel, <u>Nico Lang</u>\
+*arXiv preprint*\
+[[arxiv]](https://arxiv.org/abs/2602.06285) 
+[[project website]](https://mmearth-bench.com/)
+[[code & dataset]](https://github.com/lgordon99/mmearth-bench)
+[[data explorer]](https://mmearth-bench.com/#explorer)
+
 **SuperF: Neural Implicit Fields for Multi-Image Super-Resolution**\
 Sander Riisøen Jyhne, Christian Igel, Morten Goodwin, Per-Arne Andersen, Serge Belongie, <u>Nico Lang</u>\
 *ICLR 2026*\
