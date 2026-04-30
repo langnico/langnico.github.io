@@ -4,11 +4,17 @@ title: "Talks and other activities"
 permalink: /talks/
 author_profile: true
 ---
+**Upcoming**
+
 -   October 2026: Invited keynote at the [Open-Earth-Monitor Cyberinfrastructure (OEMC) Global Workshop 2026: “Next-Generation EO & GeoAI Built on Openness and Distributed Data”](https://earthmonitor.org/global-workshop-2026/), 7–9 October 2026, Barcelona, Spain (hosted by CREAF and the OpenGeoHub Foundation). 
 
--   March 2026: Invited keynote at the ["ELLIS Winter School 2026: AI for Earth System, Hazards & Climate Extremes"](https://meditwin-project.eu/ai4eo-winter-school/) 
+-   June 2026: Invited talk at the [CVPR 2026 workshop on Monitoring the World Through an Imperfect Lens](https://sites.google.com/view/monti2026) in Denver.
+
 
 ___
+**Past**
+
+-   March 2026: Invited keynote at the ["ELLIS Winter School 2026: AI for Earth System, Hazards & Climate Extremes"](https://meditwin-project.eu/ai4eo-winter-school/) 
 
 -   September 2025: Invited as a panelist to the "Nordic-Alan Turing Institute AI Research Workshop
 & Embassy Network Event" in Oslo.

@@ -12,23 +12,40 @@ My name is Nico Lang and I am an Assistant Professor of Computer Vision and Mach
 
 
 
-[[Curriculum Vitae](../files/CV_Nico_Lang.pdf)] [[Headshot](../files/Nico_Lang.jpg)] [[Bio](bio.md)]
+[[Curriculum Vitae (CV)](../files/CV_Nico_Lang.pdf)] [[Headshot](../files/Nico_Lang.jpg)] [[Bio](bio.md)]
 
 **Research**\
-My research interests are in the area of computer vision, machine learning, and remote sensing and in developing new methods using these techniques to support environmental sciences. My [PhD research](https://www.research-collection.ethz.ch/handle/20.500.11850/554994) focused on advancing the way we measure forest structure at global scales using publicly available satellite data. My interests also include uncertainty estimation in deep learning, anomaly detection, and learning from imbalanced data, as these are omnipresent challenges that arise when working on real-world problems. I see great potential in the application of machine learning to address global environmental issues. 
+My research interests are in the area of computer vision, machine learning, and remote sensing and in developing new methods using these techniques to support environmental sciences. My [PhD research](https://www.research-collection.ethz.ch/handle/20.500.11850/554994) focused on advancing the way we measure forest structure at global scales using publicly available satellite data. My current interests include uncertainty estimation in deep learning, novelty detection, and learning from imbalanced data, as these are omnipresent challenges that arise when working on real-world problems. I see great potential in the application of machine learning to address global environmental issues. My current work falls into the following three focus topics (see also [publications](https://langnico.github.io/publications/) or [scholar](https://scholar.google.ch/citations?user=bVZtKsQAAAAJ&hl=en)).
 
-**Studies**\
-During my Bachelor's degree in Geomatics and Planning at ETH Zurich, I discovered my fascination for machine learning and computer vision in the context of geospatial data science. Before continuing with my [Master in Geomatics at ETH Zurich](https://ethz.ch/en/studies/master/degree-programmes/architecture-and-civil-engineering/geomatics.html), I started an internship in computer vision at [upicto](https://www.venturelab.swiss/Logitech-buys-ETH-spinoff-Upicto), a start-up from the [Computer Vision Lab](https://vision.ee.ethz.ch/) at ETH, and continued it at Logitech, as upicto was acquired during my time there.
+**1. Representation learning for multimodal Earth observation data**\
+keywords: *multimodal, data fusion, self-supervised learning, implicit neural representations, "foundation models"*\
+workshops: [REO](https://sites.google.com/view/reoeurips), [SSL4EO](https://langnico.github.io/posts/SSL4EO-2024-review/)\
+projects: [MMEarth](https://vishalned.github.io/mmearth/), [MMEarth-Bench](https://mmearth-bench.com/), [SuperF](https://sjyhne.github.io/superf/)
 
-**Collaborations**\
-Following the work started during an early academic visit to [Prof. Pietro Perona's](http://www.vision.caltech.edu/Perona.html)  [Computational Vision Lab](http://www.vision.caltech.edu/) at Caltech, I worked on deep learning approaches to monitor urban trees from street-level images. During my Phd I've had the chance to collaborate with the [NASA GEDI mission](https://gedi.umd.edu/), the [Swiss Federal Institute for Forest, Snow and Landscape Research WSL](http://www.wsl.ch), as well as with companies and institutions outside academia: [Barry Callebaut](https://www.barry-callebaut.com/), [High carbon stock Approach (HCSA)](http://highcarbonstock.org/), [Hunziker, Zarn und Partner (HZP)](https://www.hzp.ch/), and [MeteoSwiss](https://www.meteoswiss.admin.ch/home/research-and-cooperation/research-and-development.html).
+**2. Global ecosystem modeling**\
+keywords: *vegetation canopy height, vertical structure, GEDI, aboveground biomass, biodiversity*\
+workshops: [AICC](https://sites.google.com/g.harvard.edu/aicceurips), [CAIN-2026](https://climateainordics.com/events/2026-nordic-workshop)\
+projects: [Global canopy height model](https://langnico.github.io/globalcanopyheight/), [MMEarth-Bench](https://mmearth-bench.com/)
+
+**3. Fine-grained open-world recognition**\
+keywords: *fine-grained categorization, hierarchical labels, taxonomy, open-set recognition, novelty detection, category discovery*\
+workshops: 
+[FGVC10](https://sites.google.com/view/fgvc10/), 
+[FGVC11](https://sites.google.com/view/fgvc11/), 
+[FGVC12](https://sites.google.com/view/fgvc12/), 
+[FGVC13](https://sites.google.com/view/fgvc13/), 
+[Visipedia 2024](https://www.aicentre.dk/events/20240412-visipedia-workshop-2024)\
+projects: [OpenInsect](https://yuyan-c.github.io/open-insect-project/)
+
 
 **Leisure**\
 I enjoy spending my free time outdoors hiking and snowboarding, playing volleyball, and traveling where [windy](https://www.windy.com/) takes me kitesurfing. I play the drums and like making music with others.
 
 News
 ======
--   Mar 2026: We're hiring a PhD at UCPH for the Global Wetland Center: [PhD fellowship in Machine Learning for Environmental Sciences - Department of Computer Science](https://candidate.hr-manager.net/ApplicationInit.aspx/?cid=3010&departmentId=19976&ProjectId=158597&MediaId=4917&SkipAdvertisement=false)
+-   April 2026: Invited talk at the [CVPR 2026 MONTI workshop](https://sites.google.com/view/monti2026).
+
+-   Mar 2026: We're hiring a PhD at UCPH for the Global Wetland Center: [PhD fellowship in Machine Learning for Environmental Sciences - Department of Computer Science](https://candidate.hr-manager.net/ApplicationInit.aspx/?cid=3010&departmentId=19976&ProjectId=158597&MediaId=4917&SkipAdvertisement=false) (Deadline: April 06)
 
 
 -   Mar 2026: Recordings of our [EurIPS 2025 REO workshop](https://sites.google.com/view/reoeurips) are released [here](https://youtube.com/playlist?list=PLhNBbLCOEGoiIymqLFEQOUyy5FsVfkJwL&si=M5s5Tj87j-dSnRKj).
