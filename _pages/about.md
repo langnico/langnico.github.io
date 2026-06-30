@@ -20,23 +20,23 @@ My current research activities focus on three main topics (see also [publication
 
 **1. Representation learning for multimodal Earth observation data**\
 keywords: *multimodal, data fusion, self-supervised learning, implicit neural representations, "foundation models"*\
-workshops: [REO](https://sites.google.com/view/reoeurips), [SSL4EO](https://langnico.github.io/posts/SSL4EO-2024-review/)\
-projects: [MMEarth](https://vishalned.github.io/mmearth/), [MMEarth-Bench](https://mmearth-bench.com/), [SuperF](https://sjyhne.github.io/superf/)
+research: [MMEarth](https://vishalned.github.io/mmearth/), [MMEarth-Bench](https://mmearth-bench.com/), [SuperF](https://sjyhne.github.io/superf/)\
+workshops: [REO](https://sites.google.com/view/reoeurips), [SSL4EO](https://langnico.github.io/posts/SSL4EO-2024-review/)
 
 **2. Global ecosystem modeling**\
 keywords: *vegetation canopy height, vertical structure, GEDI, aboveground biomass, biodiversity*\
-workshops: [AICC](https://sites.google.com/g.harvard.edu/aicceurips), [CAIN-2026](https://climateainordics.com/events/2026-nordic-workshop)\
-projects: [Global canopy height model](https://langnico.github.io/globalcanopyheight/), [MMEarth-Bench](https://mmearth-bench.com/)
+research: [Global canopy height model](https://langnico.github.io/globalcanopyheight/), [MMEarth-Bench](https://mmearth-bench.com/)\
+workshops: [AICC](https://sites.google.com/g.harvard.edu/aicceurips), [AICC-2](https://sites.google.com/g.harvard.edu/aicc2eccv26/), [CAIN-2026](https://climateainordics.com/events/2026-nordic-workshop)
 
 **3. Fine-grained open-world recognition**\
 keywords: *fine-grained categorization, hierarchical labels, taxonomy, open-set recognition, novelty detection, category discovery*\
+research: [OpenInsect](https://yuyan-c.github.io/open-insect-project/)\
 workshops: 
 [FGVC10](https://sites.google.com/view/fgvc10/), 
 [FGVC11](https://sites.google.com/view/fgvc11/), 
 [FGVC12](https://sites.google.com/view/fgvc12/), 
 [FGVC13](https://sites.google.com/view/fgvc13/), 
 [Visipedia 2024](https://www.aicentre.dk/events/20240412-visipedia-workshop-2024)\
-projects: [OpenInsect](https://yuyan-c.github.io/open-insect-project/)
 
 
 **Leisure**\
@@ -44,7 +44,14 @@ I enjoy spending my free time outdoors hiking and snowboarding, playing volleyba
 
 News
 ======
--   April 2026: Invited talk at the [CVPR 2026 MONTI workshop](https://sites.google.com/view/monti2026).
+
+-   June 2026: Newly funded Horizon Europe project is launched: [EarthGenerator a foundation model for Earth system modelling](https://cordis.europa.eu/project/id/101294938). Happy to collaborate with many excellent partners. [[news](https://www.cmcc.it/article/a-next-generation-foundation-model-of-the-earth-system-cmcc-coordinates-the-european-project-earthgenerator)]
+
+-   June 2026: Co-organizing the [AICC-2](https://sites.google.com/g.harvard.edu/aicc2eccv26/) workshop at ECCV 2026. Deadline for submissions: August 7.
+
+-   June 2026: Invited to give a talk at the [ECCV 2026 CV4Ecology workshop](https://cv4e-workshop.github.io/) in Malmö.
+
+-   April 2026: Invited talk at the [CVPR 2026 MONTI workshop](https://sites.google.com/view/monti2026). [[slides](https://aiforgood.itu.int/wp-content/uploads/2021/06/AI-for-Good-Nico-Lang-Global-vegetation-monitoring-with-probabilistic-deep-learning_compressed.pdf)]
 
 -   Mar 2026: We're hiring a PhD at UCPH for the Global Wetland Center: [PhD fellowship in Machine Learning for Environmental Sciences - Department of Computer Science](https://candidate.hr-manager.net/ApplicationInit.aspx/?cid=3010&departmentId=19976&ProjectId=158597&MediaId=4917&SkipAdvertisement=false) (Deadline: April 06)
 

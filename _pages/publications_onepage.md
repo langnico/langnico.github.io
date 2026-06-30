@@ -10,7 +10,7 @@ These are selected publications. A complete and updated list can be found on [Go
 
 **MMEarth-Bench: Global Model Adaptation via Multimodal Test-Time Training**\
 Lucia Gordon, Serge Belongie, Christian Igel, <u>Nico Lang</u>\
-*arXiv preprint*\
+*ECCV 2026*\
 [[arxiv]](https://arxiv.org/abs/2602.06285) 
 [[project website]](https://mmearth-bench.com/)
 [[code & dataset]](https://github.com/lgordon99/mmearth-bench)

@@ -8,11 +8,14 @@ author_profile: true
 
 -   October 2026: Invited keynote at the [Open-Earth-Monitor Cyberinfrastructure (OEMC) Global Workshop 2026: “Next-Generation EO & GeoAI Built on Openness and Distributed Data”](https://earthmonitor.org/global-workshop-2026/), 7–9 October 2026, Barcelona, Spain (hosted by CREAF and the OpenGeoHub Foundation). 
 
--   June 2026: Invited talk at the [CVPR 2026 workshop on Monitoring the World Through an Imperfect Lens](https://sites.google.com/view/monti2026) in Denver.
+
+-   September 2026: Invited talk at the [[ECCV 2026 workshop CV4Ecology](https://cv4e-workshop.github.io/)] in Malmö.
 
 
 ___
 **Past**
+
+-   June 2026: Invited talk at the [CVPR 2026 workshop on Monitoring the World Through an Imperfect Lens](https://sites.google.com/view/monti2026) in Denver. [video coming soon][[slides](https://drive.google.com/file/d/1ciXStdF_43pbUnnusLP6DGpaW0UyTbSC/view?usp=sharing)]
 
 -   March 2026: Invited keynote at the ["ELLIS Winter School 2026: AI for Earth System, Hazards & Climate Extremes"](https://meditwin-project.eu/ai4eo-winter-school/) 
 
