@@ -51,7 +51,7 @@ News
 
 -   June 2026: Invited to give a talk at the [ECCV 2026 CV4Ecology workshop](https://cv4e-workshop.github.io/) in Malmö.
 
--   April 2026: Invited talk at the [CVPR 2026 MONTI workshop](https://sites.google.com/view/monti2026). [[slides](https://aiforgood.itu.int/wp-content/uploads/2021/06/AI-for-Good-Nico-Lang-Global-vegetation-monitoring-with-probabilistic-deep-learning_compressed.pdf)]
+-   April 2026: Invited talk at the [CVPR 2026 MONTI workshop](https://sites.google.com/view/monti2026). [[slides](https://drive.google.com/file/d/1ciXStdF_43pbUnnusLP6DGpaW0UyTbSC/view?usp=sharing)]
 
 -   Mar 2026: We're hiring a PhD at UCPH for the Global Wetland Center: [PhD fellowship in Machine Learning for Environmental Sciences - Department of Computer Science](https://candidate.hr-manager.net/ApplicationInit.aspx/?cid=3010&departmentId=19976&ProjectId=158597&MediaId=4917&SkipAdvertisement=false) (Deadline: April 06)
 
