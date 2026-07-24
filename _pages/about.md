@@ -45,6 +45,10 @@ I enjoy spending my free time outdoors hiking and snowboarding, playing volleyba
 News
 ======
 
+-   July 2026: We have a fully-funded PhD position: "[Machine Learning for Environmental Sciences](https://candidate.hr-manager.net/ApplicationInit.aspx/?cid=3010&departmentId=19976&ProjectId=165934&MediaId=4917&SkipAdvertisement=false)". Deadline is August 2.
+
+-   July 2026: Two papers accepted to ECCV 2026. [MMEarth-Bench](https://mmearth-bench.com/) and [Align and Segment](https://arxiv.org/abs/2607.10841).
+
 -   June 2026: Newly funded Horizon Europe project is launched: [EarthGenerator a foundation model for Earth system modelling](https://cordis.europa.eu/project/id/101294938). Happy to collaborate with many excellent partners. [[news](https://www.cmcc.it/article/a-next-generation-foundation-model-of-the-earth-system-cmcc-coordinates-the-european-project-earthgenerator)]
 
 -   June 2026: Co-organizing the [AICC-2](https://sites.google.com/g.harvard.edu/aicc2eccv26/) workshop at ECCV 2026. Deadline for submissions: August 7.

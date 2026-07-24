@@ -18,8 +18,6 @@ author_profile: true
 ___
 **Past**
 
--   July 2026: Two papers accepted to ECCV 2026. [MMEarth-Bench](https://mmearth-bench.com/) and [Align and Segment](https://arxiv.org/abs/2607.10841).
-
 -   June 2026: Invited talk at the [CVPR 2026 workshop on Monitoring the World Through an Imperfect Lens](https://sites.google.com/view/monti2026) in Denver. [video coming soon][[slides](https://drive.google.com/file/d/1ciXStdF_43pbUnnusLP6DGpaW0UyTbSC/view?usp=sharing)]
 
 -   March 2026: Invited keynote at the ["ELLIS Winter School 2026: AI for Earth System, Hazards & Climate Extremes"](https://meditwin-project.eu/ai4eo-winter-school/) 
