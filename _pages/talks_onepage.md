@@ -6,14 +6,19 @@ author_profile: true
 ---
 **Upcoming**
 
+-   November 2026: - Invited keynote at the [BMVC 2026 Workshop on Machine Vision for Earth Observation, Environmental Monitoring, and Climate Change](https://mveo.github.io/index.html), 23–26 November 2026, Lancaster, UK.
+
+
 -   October 2026: Invited keynote at the [Open-Earth-Monitor Cyberinfrastructure (OEMC) Global Workshop 2026: “Next-Generation EO & GeoAI Built on Openness and Distributed Data”](https://earthmonitor.org/global-workshop-2026/), 7–9 October 2026, Barcelona, Spain (hosted by CREAF and the OpenGeoHub Foundation). 
 
 
--   September 2026: Invited talk at the [[ECCV 2026 workshop CV4Ecology](https://cv4e-workshop.github.io/)] in Malmö.
+-   September 2026: Invited talk at the [[ECCV 2026 workshop CV4Ecology](https://cv4e-workshop.github.io/)], September 8, Malmö, Sweden.
 
 
 ___
 **Past**
+
+-   July 2026: Two papers accepted to ECCV 2026. [MMEarth-Bench](https://mmearth-bench.com/) and [Align and Segment](https://arxiv.org/abs/2607.10841).
 
 -   June 2026: Invited talk at the [CVPR 2026 workshop on Monitoring the World Through an Imperfect Lens](https://sites.google.com/view/monti2026) in Denver. [video coming soon][[slides](https://drive.google.com/file/d/1ciXStdF_43pbUnnusLP6DGpaW0UyTbSC/view?usp=sharing)]
 
